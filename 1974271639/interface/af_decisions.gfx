@@ -1,0 +1,2889 @@
+spriteTypes = {
+####flags####
+
+	spriteType = {
+		name = "GFX_new_LEB1"
+		texturefile = "gfx/interface/decisions/new_LEB1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_LEB1"
+		texturefile = "gfx/interface/decisions/new_KAZ1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_KAZ2"
+		texturefile = "gfx/interface/decisions/new_KAZ2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_KAZ3"
+		texturefile = "gfx/interface/decisions/new_KAZ3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_KAZ4"
+		texturefile = "gfx/interface/decisions/new_KAZ4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_MEX1"
+		texturefile = "gfx/interface/decisions/new_MEX1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_MEX2"
+		texturefile = "gfx/interface/decisions/new_MEX2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_MEX3"
+		texturefile = "gfx/interface/decisions/new_MEX3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_MEX4"
+		texturefile = "gfx/interface/decisions/new_MEX4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_MEX5"
+		texturefile = "gfx/interface/decisions/new_MEX5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_MEX6"
+		texturefile = "gfx/interface/decisions/new_MEX6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_MEX7"
+		texturefile = "gfx/interface/decisions/new_MEX7.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_MEX8"
+		texturefile = "gfx/interface/decisions/new_MEX8.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_MEX9"
+		texturefile = "gfx/interface/decisions/new_MEX9.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_MEX10"
+		texturefile = "gfx/interface/decisions/new_MEX10.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_MEX11"
+		texturefile = "gfx/interface/decisions/new_MEX11.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_MEX12"
+		texturefile = "gfx/interface/decisions/new_MEX12.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_MEX13"
+		texturefile = "gfx/interface/decisions/new_MEX13.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_MEX14"
+		texturefile = "gfx/interface/decisions/new_MEX14.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_MEX15"
+		texturefile = "gfx/interface/decisions/new_MEX15.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_MEX16"
+		texturefile = "gfx/interface/decisions/new_MEX16.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SER1"
+		texturefile = "gfx/interface/decisions/new_SER1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SER2"
+		texturefile = "gfx/interface/decisions/new_SER2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SER3"
+		texturefile = "gfx/interface/decisions/new_SER3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SER4"
+		texturefile = "gfx/interface/decisions/new_SER4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SER5"
+		texturefile = "gfx/interface/decisions/new_SER5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SER6"
+		texturefile = "gfx/interface/decisions/new_SER6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CRO1"
+		texturefile = "gfx/interface/decisions/new_CRO1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CRO2"
+		texturefile = "gfx/interface/decisions/new_CRO2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CRO3"
+		texturefile = "gfx/interface/decisions/new_CRO3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CRO4"
+		texturefile = "gfx/interface/decisions/new_CRO4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CRO5"
+		texturefile = "gfx/interface/decisions/new_CRO5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CRO6"
+		texturefile = "gfx/interface/decisions/new_CRO6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_NZL1"
+		texturefile = "gfx/interface/decisions/new_NZL1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_NZL2"
+		texturefile = "gfx/interface/decisions/new_NZL2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_NZL3"
+		texturefile = "gfx/interface/decisions/new_NZL3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_NZL4"
+		texturefile = "gfx/interface/decisions/new_NZL4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_NZL5"
+		texturefile = "gfx/interface/decisions/new_NZL5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_NZL6"
+		texturefile = "gfx/interface/decisions/new_NZL6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CHI1"
+		texturefile = "gfx/interface/decisions/new_CHI1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CHI2"
+		texturefile = "gfx/interface/decisions/new_CHI2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CHI3"
+		texturefile = "gfx/interface/decisions/new_CHI3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CHI4"
+		texturefile = "gfx/interface/decisions/new_CHI4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CHI5"
+		texturefile = "gfx/interface/decisions/new_CHI5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CHI6"
+		texturefile = "gfx/interface/decisions/new_CHI6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CHI7"
+		texturefile = "gfx/interface/decisions/new_CHI7.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CHI8"
+		texturefile = "gfx/interface/decisions/new_CHI8.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CHI9"
+		texturefile = "gfx/interface/decisions/new_CHI9.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CHI10"
+		texturefile = "gfx/interface/decisions/new_CHI10.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CHI11"
+		texturefile = "gfx/interface/decisions/new_CHI11.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CHI12"
+		texturefile = "gfx/interface/decisions/new_CHI12.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CHI13"
+		texturefile = "gfx/interface/decisions/new_CHI13.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CHI14"
+		texturefile = "gfx/interface/decisions/new_CHI14.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CHI15"
+		texturefile = "gfx/interface/decisions/new_CHI15.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CHI16"
+		texturefile = "gfx/interface/decisions/new_CHI16.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CHI17"
+		texturefile = "gfx/interface/decisions/new_CHI17.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CHI18"
+		texturefile = "gfx/interface/decisions/new_CHI18.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CHI19"
+		texturefile = "gfx/interface/decisions/new_CHI19.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SAU1"
+		texturefile = "gfx/interface/decisions/new_SAU1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SAU2"
+		texturefile = "gfx/interface/decisions/new_SAU2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SAU3"
+		texturefile = "gfx/interface/decisions/new_SAU3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SAU4"
+		texturefile = "gfx/interface/decisions/new_SAU4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SAU5"
+		texturefile = "gfx/interface/decisions/new_SAU5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SAU6"
+		texturefile = "gfx/interface/decisions/new_SAU6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SAU7"
+		texturefile = "gfx/interface/decisions/new_SAU7.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SPR1"
+		texturefile = "gfx/interface/decisions/new_SPR1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SPR2"
+		texturefile = "gfx/interface/decisions/new_SPR2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SPR3"
+		texturefile = "gfx/interface/decisions/new_SPR3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SPR4"
+		texturefile = "gfx/interface/decisions/new_SPR4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SPR5"
+		texturefile = "gfx/interface/decisions/new_SPR5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SPR6"
+		texturefile = "gfx/interface/decisions/new_SPR6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SPR7"
+		texturefile = "gfx/interface/decisions/new_SPR7.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SPR8"
+		texturefile = "gfx/interface/decisions/new_SPR8.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SPR9"
+		texturefile = "gfx/interface/decisions/new_SPR9.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BUL1"
+		texturefile = "gfx/interface/decisions/new_BUL1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BUL2"
+		texturefile = "gfx/interface/decisions/new_BUL2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BUL3"
+		texturefile = "gfx/interface/decisions/new_BUL3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BUL4"
+		texturefile = "gfx/interface/decisions/new_BUL4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BUL5"
+		texturefile = "gfx/interface/decisions/new_BUL5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BUL6"
+		texturefile = "gfx/interface/decisions/new_BUL6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BUL7"
+		texturefile = "gfx/interface/decisions/new_BUL7.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BUL8"
+		texturefile = "gfx/interface/decisions/new_BUL8.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BUL9"
+		texturefile = "gfx/interface/decisions/new_BUL9.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BUL10"
+		texturefile = "gfx/interface/decisions/new_BUL10.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BUL11"
+		texturefile = "gfx/interface/decisions/new_BUL11.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BUL12"
+		texturefile = "gfx/interface/decisions/new_BUL12.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BUL13"
+		texturefile = "gfx/interface/decisions/new_BUL13.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BUL14"
+		texturefile = "gfx/interface/decisions/new_BUL14.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BUL15"
+		texturefile = "gfx/interface/decisions/new_BUL15.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BUL16"
+		texturefile = "gfx/interface/decisions/new_BUL16.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BUL17"
+		texturefile = "gfx/interface/decisions/new_BUL17.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BUL18"
+		texturefile = "gfx/interface/decisions/new_BUL18.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BUL19"
+		texturefile = "gfx/interface/decisions/new_BUL19.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BUL20"
+		texturefile = "gfx/interface/decisions/new_BUL20.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BUL21"
+		texturefile = "gfx/interface/decisions/new_BUL21.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BUL22"
+		texturefile = "gfx/interface/decisions/new_BUL22.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BUL23"
+		texturefile = "gfx/interface/decisions/new_BUL23.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BUL24"
+		texturefile = "gfx/interface/decisions/new_BUL24.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BUL25"
+		texturefile = "gfx/interface/decisions/new_BUL25.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BUL26"
+		texturefile = "gfx/interface/decisions/new_BUL26.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BUL27"
+		texturefile = "gfx/interface/decisions/new_BUL27.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BUL28"
+		texturefile = "gfx/interface/decisions/new_BUL28.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BUL29"
+		texturefile = "gfx/interface/decisions/new_BUL29.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CYP1"
+		texturefile = "gfx/interface/decisions/new_CYP1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CYP2"
+		texturefile = "gfx/interface/decisions/new_CYP2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CYP3"
+		texturefile = "gfx/interface/decisions/new_CYP3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SLV1"
+		texturefile = "gfx/interface/decisions/new_SLV1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SLV2"
+		texturefile = "gfx/interface/decisions/new_SLV2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SLV3"
+		texturefile = "gfx/interface/decisions/new_SLV3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SLV4"
+		texturefile = "gfx/interface/decisions/new_SLV4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_AUS1"
+		texturefile = "gfx/interface/decisions/new_AUS1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_AUS2"
+		texturefile = "gfx/interface/decisions/new_AUS2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_AUS3"
+		texturefile = "gfx/interface/decisions/new_AUS3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_AUS4"
+		texturefile = "gfx/interface/decisions/new_AUS4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_AUS5"
+		texturefile = "gfx/interface/decisions/new_AUS5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_AUS6"
+		texturefile = "gfx/interface/decisions/new_AUS6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_AUS7"
+		texturefile = "gfx/interface/decisions/new_AUS7.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_AUS8"
+		texturefile = "gfx/interface/decisions/new_AUS8.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_AUS9"
+		texturefile = "gfx/interface/decisions/new_AUS9.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_AUS10"
+		texturefile = "gfx/interface/decisions/new_AUS10.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_AUS11"
+		texturefile = "gfx/interface/decisions/new_AUS11.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_AUS12"
+		texturefile = "gfx/interface/decisions/new_AUS12.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_HUN1"
+		texturefile = "gfx/interface/decisions/new_HUN1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_HUN2"
+		texturefile = "gfx/interface/decisions/new_HUN2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_HUN3"
+		texturefile = "gfx/interface/decisions/new_HUN3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_HUN4"
+		texturefile = "gfx/interface/decisions/new_HUN4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_HUN5"
+		texturefile = "gfx/interface/decisions/new_HUN5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_HUN6"
+		texturefile = "gfx/interface/decisions/new_HUN6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_HUN7"
+		texturefile = "gfx/interface/decisions/new_HUN7.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_HUN8"
+		texturefile = "gfx/interface/decisions/new_HUN8.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_HUN9"
+		texturefile = "gfx/interface/decisions/new_HUN9.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_HUN10"
+		texturefile = "gfx/interface/decisions/new_HUN10.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_HUN11"
+		texturefile = "gfx/interface/decisions/new_HUN11.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_HUN12"
+		texturefile = "gfx/interface/decisions/new_HUN12.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SWE1"
+		texturefile = "gfx/interface/decisions/new_SWE1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SWE2"
+		texturefile = "gfx/interface/decisions/new_SWE2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SWE3"
+		texturefile = "gfx/interface/decisions/new_SWE3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SWE4"
+		texturefile = "gfx/interface/decisions/new_SWE4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SWE5"
+		texturefile = "gfx/interface/decisions/new_SWE5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SWE6"
+		texturefile = "gfx/interface/decisions/new_SWE6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SWE7"
+		texturefile = "gfx/interface/decisions/new_SWE7.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SWE8"
+		texturefile = "gfx/interface/decisions/new_SWE8.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SWE9"
+		texturefile = "gfx/interface/decisions/new_SWE9.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SWE10"
+		texturefile = "gfx/interface/decisions/new_SWE10.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SWE11"
+		texturefile = "gfx/interface/decisions/new_SWE11.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA1"
+		texturefile = "gfx/interface/decisions/new_USA1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA2"
+		texturefile = "gfx/interface/decisions/new_USA2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA3"
+		texturefile = "gfx/interface/decisions/new_USA3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA4"
+		texturefile = "gfx/interface/decisions/new_USA4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA5"
+		texturefile = "gfx/interface/decisions/new_USA5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA6"
+		texturefile = "gfx/interface/decisions/new_USA6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA7"
+		texturefile = "gfx/interface/decisions/new_USA7.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA8"
+		texturefile = "gfx/interface/decisions/new_USA8.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA9"
+		texturefile = "gfx/interface/decisions/new_USA9.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA10"
+		texturefile = "gfx/interface/decisions/new_USA10.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA11"
+		texturefile = "gfx/interface/decisions/new_USA11.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA12"
+		texturefile = "gfx/interface/decisions/new_USA12.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA13"
+		texturefile = "gfx/interface/decisions/new_USA13.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA14"
+		texturefile = "gfx/interface/decisions/new_USA14.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA15"
+		texturefile = "gfx/interface/decisions/new_USA15.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA16"
+		texturefile = "gfx/interface/decisions/new_USA16.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA17"
+		texturefile = "gfx/interface/decisions/new_USA17.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA18"
+		texturefile = "gfx/interface/decisions/new_USA18.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA19"
+		texturefile = "gfx/interface/decisions/new_USA19.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA20"
+		texturefile = "gfx/interface/decisions/new_USA20.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA21"
+		texturefile = "gfx/interface/decisions/new_USA21.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA22"
+		texturefile = "gfx/interface/decisions/new_USA22.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA23"
+		texturefile = "gfx/interface/decisions/new_USA23.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA24"
+		texturefile = "gfx/interface/decisions/new_USA24.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA25"
+		texturefile = "gfx/interface/decisions/new_USA25.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA26"
+		texturefile = "gfx/interface/decisions/new_USA26.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA27"
+		texturefile = "gfx/interface/decisions/new_USA27.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA28"
+		texturefile = "gfx/interface/decisions/new_USA28.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA29"
+		texturefile = "gfx/interface/decisions/new_USA29.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA30"
+		texturefile = "gfx/interface/decisions/new_USA30.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA31"
+		texturefile = "gfx/interface/decisions/new_USA31.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA32"
+		texturefile = "gfx/interface/decisions/new_USA32.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA33"
+		texturefile = "gfx/interface/decisions/new_USA33.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA34"
+		texturefile = "gfx/interface/decisions/new_USA34.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA35"
+		texturefile = "gfx/interface/decisions/new_USA35.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA36"
+		texturefile = "gfx/interface/decisions/new_USA36.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA37"
+		texturefile = "gfx/interface/decisions/new_USA37.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA38"
+		texturefile = "gfx/interface/decisions/new_USA38.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA39"
+		texturefile = "gfx/interface/decisions/new_USA39.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA40"
+		texturefile = "gfx/interface/decisions/new_USA40.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA41"
+		texturefile = "gfx/interface/decisions/new_USA41.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA42"
+		texturefile = "gfx/interface/decisions/new_USA42.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA53"
+		texturefile = "gfx/interface/decisions/new_USA53.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA54"
+		texturefile = "gfx/interface/decisions/new_USA54.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA55"
+		texturefile = "gfx/interface/decisions/new_USA55.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA56"
+		texturefile = "gfx/interface/decisions/new_USA56.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA57"
+		texturefile = "gfx/interface/decisions/new_USA57.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_new_USA58"
+		texturefile = "gfx/interface/decisions/new_USA58.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA48"
+		texturefile = "gfx/interface/decisions/new_USA48.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA49"
+		texturefile = "gfx/interface/decisions/new_USA49.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA50"
+		texturefile = "gfx/interface/decisions/new_USA50.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA51"
+		texturefile = "gfx/interface/decisions/new_USA51.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA52"
+		texturefile = "gfx/interface/decisions/new_USA52.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_new_USA43"
+		texturefile = "gfx/interface/decisions/new_USA43.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA44"
+		texturefile = "gfx/interface/decisions/new_USA44.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA45"
+		texturefile = "gfx/interface/decisions/new_USA45.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA46"
+		texturefile = "gfx/interface/decisions/new_USA46.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_USA47"
+		texturefile = "gfx/interface/decisions/new_USA47.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_AST1"
+		texturefile = "gfx/interface/decisions/new_AST1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_AST2"
+		texturefile = "gfx/interface/decisions/new_AST2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_AST3"
+		texturefile = "gfx/interface/decisions/new_AST3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_AST4"
+		texturefile = "gfx/interface/decisions/new_AST4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_AST5"
+		texturefile = "gfx/interface/decisions/new_AST5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_AST6"
+		texturefile = "gfx/interface/decisions/new_AST6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_AST7"
+		texturefile = "gfx/interface/decisions/new_AST7.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_AST8"
+		texturefile = "gfx/interface/decisions/new_AST8.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_AST9"
+		texturefile = "gfx/interface/decisions/new_AST9.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_AST10"
+		texturefile = "gfx/interface/decisions/new_AST10.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_AST11"
+		texturefile = "gfx/interface/decisions/new_AST11.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_AST12"
+		texturefile = "gfx/interface/decisions/new_AST12.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_HOL1"
+		texturefile = "gfx/interface/decisions/new_HOL1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_HOL2"
+		texturefile = "gfx/interface/decisions/new_HOL2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_HOL3"
+		texturefile = "gfx/interface/decisions/new_HOL3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_HOL4"
+		texturefile = "gfx/interface/decisions/new_HOL4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_HOL5"
+		texturefile = "gfx/interface/decisions/new_HOL5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_HOL6"
+		texturefile = "gfx/interface/decisions/new_HOL6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_HOL7"
+		texturefile = "gfx/interface/decisions/new_HOL7.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_HOL8"
+		texturefile = "gfx/interface/decisions/new_HOL8.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SWI1"
+		texturefile = "gfx/interface/decisions/new_SWI1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SWI2"
+		texturefile = "gfx/interface/decisions/new_SWI2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SWI3"
+		texturefile = "gfx/interface/decisions/new_SWI3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SWI4"
+		texturefile = "gfx/interface/decisions/new_SWI4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SWI5"
+		texturefile = "gfx/interface/decisions/new_SWI5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SWI6"
+		texturefile = "gfx/interface/decisions/new_SWI6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SWI7"
+		texturefile = "gfx/interface/decisions/new_SWI7.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SWI8"
+		texturefile = "gfx/interface/decisions/new_SWI8.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SWI9"
+		texturefile = "gfx/interface/decisions/new_SWI9.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_EST1"
+		texturefile = "gfx/interface/decisions/new_EST1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_EST2"
+		texturefile = "gfx/interface/decisions/new_EST2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_EST3"
+		texturefile = "gfx/interface/decisions/new_EST3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_EST4"
+		texturefile = "gfx/interface/decisions/new_EST4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_EST5"
+		texturefile = "gfx/interface/decisions/new_EST5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_EST6"
+		texturefile = "gfx/interface/decisions/new_EST6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_EST7"
+		texturefile = "gfx/interface/decisions/new_EST7.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_EST8"
+		texturefile = "gfx/interface/decisions/new_EST8.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BOS1"
+		texturefile = "gfx/interface/decisions/new_BOS1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BOS2"
+		texturefile = "gfx/interface/decisions/new_BOS2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BOS3"
+		texturefile = "gfx/interface/decisions/new_BOS3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BOS4"
+		texturefile = "gfx/interface/decisions/new_BOS4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BEL1"
+		texturefile = "gfx/interface/decisions/new_BEL1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BEL2"
+		texturefile = "gfx/interface/decisions/new_BEL2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FIN1"
+		texturefile = "gfx/interface/decisions/new_FIN1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FIN2"
+		texturefile = "gfx/interface/decisions/new_FIN2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FIN3"
+		texturefile = "gfx/interface/decisions/new_FIN3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FIN4"
+		texturefile = "gfx/interface/decisions/new_FIN4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FIN5"
+		texturefile = "gfx/interface/decisions/new_FIN5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FIN6"
+		texturefile = "gfx/interface/decisions/new_FIN6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FIN7"
+		texturefile = "gfx/interface/decisions/new_FIN7.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FIN8"
+		texturefile = "gfx/interface/decisions/new_FIN8.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_POL1"
+		texturefile = "gfx/interface/decisions/new_POL1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_POL2"
+		texturefile = "gfx/interface/decisions/new_POL2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_POL3"
+		texturefile = "gfx/interface/decisions/new_POL3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_POL4"
+		texturefile = "gfx/interface/decisions/new_POL4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_POL5"
+		texturefile = "gfx/interface/decisions/new_POL5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_POL6"
+		texturefile = "gfx/interface/decisions/new_POL6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_POL7"
+		texturefile = "gfx/interface/decisions/new_POL7.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_POL8"
+		texturefile = "gfx/interface/decisions/new_POL8.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_POL9"
+		texturefile = "gfx/interface/decisions/new_POL9.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_POL10"
+		texturefile = "gfx/interface/decisions/new_POL10.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_POL11"
+		texturefile = "gfx/interface/decisions/new_POL11.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_DEN1"
+		texturefile = "gfx/interface/decisions/new_DEN1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_DEN2"
+		texturefile = "gfx/interface/decisions/new_DEN2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_DEN3"
+		texturefile = "gfx/interface/decisions/new_DEN3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_DEN4"
+		texturefile = "gfx/interface/decisions/new_DEN4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_LUX1"
+		texturefile = "gfx/interface/decisions/new_LUX1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CZE1"
+		texturefile = "gfx/interface/decisions/new_CZE1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CZE2"
+		texturefile = "gfx/interface/decisions/new_CZE2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CZE3"
+		texturefile = "gfx/interface/decisions/new_CZE3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CZE4"
+		texturefile = "gfx/interface/decisions/new_CZE4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CZE5"
+		texturefile = "gfx/interface/decisions/new_CZE5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CZE6"
+		texturefile = "gfx/interface/decisions/new_CZE6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CZE7"
+		texturefile = "gfx/interface/decisions/new_CZE7.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_TUR1"
+		texturefile = "gfx/interface/decisions/new_TUR1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_TUR2"
+		texturefile = "gfx/interface/decisions/new_TUR2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_TUR3"
+		texturefile = "gfx/interface/decisions/new_TUR3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_TUR4"
+		texturefile = "gfx/interface/decisions/new_TUR4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_TUR5"
+		texturefile = "gfx/interface/decisions/new_TUR5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_TUR6"
+		texturefile = "gfx/interface/decisions/new_TUR6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_TUR7"
+		texturefile = "gfx/interface/decisions/new_TUR7.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_TUR8"
+		texturefile = "gfx/interface/decisions/new_TUR8.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_TUR9"
+		texturefile = "gfx/interface/decisions/new_TUR9.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_TUR10"
+		texturefile = "gfx/interface/decisions/new_TUR10.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_TUR11"
+		texturefile = "gfx/interface/decisions/new_TUR11.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_TUR12"
+		texturefile = "gfx/interface/decisions/new_TUR12.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_TUR13"
+		texturefile = "gfx/interface/decisions/new_TUR13.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_TUR14"
+		texturefile = "gfx/interface/decisions/new_TUR14.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_TUR15"
+		texturefile = "gfx/interface/decisions/new_TUR15.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_TUR16"
+		texturefile = "gfx/interface/decisions/new_TUR16.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_TUR17"
+		texturefile = "gfx/interface/decisions/new_TUR17.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BRA1"
+		texturefile = "gfx/interface/decisions/new_BRA1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BRA2"
+		texturefile = "gfx/interface/decisions/new_BRA2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BRA3"
+		texturefile = "gfx/interface/decisions/new_BRA3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BRA4"
+		texturefile = "gfx/interface/decisions/new_BRA4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BRA5"
+		texturefile = "gfx/interface/decisions/new_BRA5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BRA6"
+		texturefile = "gfx/interface/decisions/new_BRA6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BRA7"
+		texturefile = "gfx/interface/decisions/new_BRA7.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BRA8"
+		texturefile = "gfx/interface/decisions/new_BRA8.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_BRA9"
+		texturefile = "gfx/interface/decisions/new_BRA9.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_NOR1"
+		texturefile = "gfx/interface/decisions/new_NOR1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_NOR2"
+		texturefile = "gfx/interface/decisions/new_NOR2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_NOR3"
+		texturefile = "gfx/interface/decisions/new_NOR3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_NOR4"
+		texturefile = "gfx/interface/decisions/new_NOR4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_NOR5"
+		texturefile = "gfx/interface/decisions/new_NOR5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_NOR6"
+		texturefile = "gfx/interface/decisions/new_NOR6.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_new_NOR7"
+		texturefile = "gfx/interface/decisions/new_NOR7.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ROM1"
+		texturefile = "gfx/interface/decisions/new_ROM1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ROM2"
+		texturefile = "gfx/interface/decisions/new_ROM2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ROM3"
+		texturefile = "gfx/interface/decisions/new_ROM3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ROM4"
+		texturefile = "gfx/interface/decisions/new_ROM4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ROM5"
+		texturefile = "gfx/interface/decisions/new_ROM5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ROM6"
+		texturefile = "gfx/interface/decisions/new_ROM6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ROM7"
+		texturefile = "gfx/interface/decisions/new_ROM7.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ROM8"
+		texturefile = "gfx/interface/decisions/new_ROM8.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ROM9"
+		texturefile = "gfx/interface/decisions/new_ROM9.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CAN1"
+		texturefile = "gfx/interface/decisions/new_CAN1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CAN2"
+		texturefile = "gfx/interface/decisions/new_CAN2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CAN3"
+		texturefile = "gfx/interface/decisions/new_CAN3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CAN4"
+		texturefile = "gfx/interface/decisions/new_CAN4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CAN5"
+		texturefile = "gfx/interface/decisions/new_CAN5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CAN6"
+		texturefile = "gfx/interface/decisions/new_CAN6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_CAN7"
+		texturefile = "gfx/interface/decisions/new_CAN7.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_POR1"
+		texturefile = "gfx/interface/decisions/new_POR1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_POR2"
+		texturefile = "gfx/interface/decisions/new_POR2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_POR3"
+		texturefile = "gfx/interface/decisions/new_POR3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_POR4"
+		texturefile = "gfx/interface/decisions/new_POR4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_POR5"
+		texturefile = "gfx/interface/decisions/new_POR5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FRA1"
+		texturefile = "gfx/interface/decisions/new_FRA1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FRA2"
+		texturefile = "gfx/interface/decisions/new_FRA2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FRA3"
+		texturefile = "gfx/interface/decisions/new_FRA3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FRA4"
+		texturefile = "gfx/interface/decisions/new_FRA4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FRA5"
+		texturefile = "gfx/interface/decisions/new_FRA5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FRA6"
+		texturefile = "gfx/interface/decisions/new_FRA6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FRA7"
+		texturefile = "gfx/interface/decisions/new_FRA7.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FRA8"
+		texturefile = "gfx/interface/decisions/new_FRA8.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FRA9"
+		texturefile = "gfx/interface/decisions/new_FRA9.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FRA10"
+		texturefile = "gfx/interface/decisions/new_FRA10.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FRA11"
+		texturefile = "gfx/interface/decisions/new_FRA11.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FRA12"
+		texturefile = "gfx/interface/decisions/new_FRA12.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FRA13"
+		texturefile = "gfx/interface/decisions/new_FRA13.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FRA14"
+		texturefile = "gfx/interface/decisions/new_FRA14.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FRA15"
+		texturefile = "gfx/interface/decisions/new_FRA15.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FRA16"
+		texturefile = "gfx/interface/decisions/new_FRA16.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FRA17"
+		texturefile = "gfx/interface/decisions/new_FRA17.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FRA18"
+		texturefile = "gfx/interface/decisions/new_FRA18.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FRA19"
+		texturefile = "gfx/interface/decisions/new_FRA19.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FRA20"
+		texturefile = "gfx/interface/decisions/new_FRA20.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FRA21"
+		texturefile = "gfx/interface/decisions/new_FRA21.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FRA22"
+		texturefile = "gfx/interface/decisions/new_FRA22.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FRA23"
+		texturefile = "gfx/interface/decisions/new_FRA23.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FRA24"
+		texturefile = "gfx/interface/decisions/new_FRA24.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FRA25"
+		texturefile = "gfx/interface/decisions/new_FRA25.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FRA26"
+		texturefile = "gfx/interface/decisions/new_FRA26.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FRA27"
+		texturefile = "gfx/interface/decisions/new_FRA27.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FRA28"
+		texturefile = "gfx/interface/decisions/new_FRA28.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FRA29"
+		texturefile = "gfx/interface/decisions/new_FRA29.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FRA30"
+		texturefile = "gfx/interface/decisions/new_FRA30.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FRA31"
+		texturefile = "gfx/interface/decisions/new_FRA31.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FRA32"
+		texturefile = "gfx/interface/decisions/new_FRA32.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_FRA33"
+		texturefile = "gfx/interface/decisions/new_FRA33.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER1"
+		texturefile = "gfx/interface/decisions/new_GER1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER2"
+		texturefile = "gfx/interface/decisions/new_GER2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER3"
+		texturefile = "gfx/interface/decisions/new_GER3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER4"
+		texturefile = "gfx/interface/decisions/new_GER4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER5"
+		texturefile = "gfx/interface/decisions/new_GER5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER6"
+		texturefile = "gfx/interface/decisions/new_GER6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER7"
+		texturefile = "gfx/interface/decisions/new_GER7.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER8"
+		texturefile = "gfx/interface/decisions/new_GER8.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER9"
+		texturefile = "gfx/interface/decisions/new_GER9.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER10"
+		texturefile = "gfx/interface/decisions/new_GER10.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER11"
+		texturefile = "gfx/interface/decisions/new_GER11.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER12"
+		texturefile = "gfx/interface/decisions/new_GER12.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER13"
+		texturefile = "gfx/interface/decisions/new_GER13.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER14"
+		texturefile = "gfx/interface/decisions/new_GER14.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER15"
+		texturefile = "gfx/interface/decisions/new_GER15.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER16"
+		texturefile = "gfx/interface/decisions/new_GER16.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER17"
+		texturefile = "gfx/interface/decisions/new_GER17.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER18"
+		texturefile = "gfx/interface/decisions/new_GER18.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER19"
+		texturefile = "gfx/interface/decisions/new_GER19.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER20"
+		texturefile = "gfx/interface/decisions/new_GER20.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER21"
+		texturefile = "gfx/interface/decisions/new_GER21.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER22"
+		texturefile = "gfx/interface/decisions/new_GER22.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER23"
+		texturefile = "gfx/interface/decisions/new_GER23.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER24"
+		texturefile = "gfx/interface/decisions/new_GER24.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER25"
+		texturefile = "gfx/interface/decisions/new_GER25.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER26"
+		texturefile = "gfx/interface/decisions/new_GER26.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER27"
+		texturefile = "gfx/interface/decisions/new_GER27.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER28"
+		texturefile = "gfx/interface/decisions/new_GER28.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER29"
+		texturefile = "gfx/interface/decisions/new_GER29.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER30"
+		texturefile = "gfx/interface/decisions/new_GER30.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER31"
+		texturefile = "gfx/interface/decisions/new_GER31.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER32"
+		texturefile = "gfx/interface/decisions/new_GER32.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER33"
+		texturefile = "gfx/interface/decisions/new_GER33.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER34"
+		texturefile = "gfx/interface/decisions/new_GER34.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER35"
+		texturefile = "gfx/interface/decisions/new_GER35.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER36"
+		texturefile = "gfx/interface/decisions/new_GER36.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER37"
+		texturefile = "gfx/interface/decisions/new_GER37.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER38"
+		texturefile = "gfx/interface/decisions/new_GER38.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER39"
+		texturefile = "gfx/interface/decisions/new_GER39.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER40"
+		texturefile = "gfx/interface/decisions/new_GER40.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER41"
+		texturefile = "gfx/interface/decisions/new_GER41.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER42"
+		texturefile = "gfx/interface/decisions/new_GER42.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER43"
+		texturefile = "gfx/interface/decisions/new_GER43.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER44"
+		texturefile = "gfx/interface/decisions/new_GER44.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER45"
+		texturefile = "gfx/interface/decisions/new_GER45.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER46"
+		texturefile = "gfx/interface/decisions/new_GER46.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER47"
+		texturefile = "gfx/interface/decisions/new_GER47.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER48"
+		texturefile = "gfx/interface/decisions/new_GER48.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER49"
+		texturefile = "gfx/interface/decisions/new_GER49.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER50"
+		texturefile = "gfx/interface/decisions/new_GER50.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER51"
+		texturefile = "gfx/interface/decisions/new_GER51.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER52"
+		texturefile = "gfx/interface/decisions/new_GER52.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER53"
+		texturefile = "gfx/interface/decisions/new_GER53.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER54"
+		texturefile = "gfx/interface/decisions/new_GER54.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER55"
+		texturefile = "gfx/interface/decisions/new_GER55.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER56"
+		texturefile = "gfx/interface/decisions/new_GER56.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER57"
+		texturefile = "gfx/interface/decisions/new_GER57.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER58"
+		texturefile = "gfx/interface/decisions/new_GER58.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER59"
+		texturefile = "gfx/interface/decisions/new_GER59.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER60"
+		texturefile = "gfx/interface/decisions/new_GER60.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER61"
+		texturefile = "gfx/interface/decisions/new_GER61.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER62"
+		texturefile = "gfx/interface/decisions/new_GER62.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER63"
+		texturefile = "gfx/interface/decisions/new_GER63.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER64"
+		texturefile = "gfx/interface/decisions/new_GER64.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER65"
+		texturefile = "gfx/interface/decisions/new_GER65.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER66"
+		texturefile = "gfx/interface/decisions/new_GER66.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER67"
+		texturefile = "gfx/interface/decisions/new_GER67.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER68"
+		texturefile = "gfx/interface/decisions/new_GER68.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER69"
+		texturefile = "gfx/interface/decisions/new_GER69.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER70"
+		texturefile = "gfx/interface/decisions/new_GER70.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER71"
+		texturefile = "gfx/interface/decisions/new_GER71.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER72"
+		texturefile = "gfx/interface/decisions/new_GER72.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER73"
+		texturefile = "gfx/interface/decisions/new_GER73.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER74"
+		texturefile = "gfx/interface/decisions/new_GER74.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER75"
+		texturefile = "gfx/interface/decisions/new_GER75.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER76"
+		texturefile = "gfx/interface/decisions/new_GER76.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER77"
+		texturefile = "gfx/interface/decisions/new_GER77.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER78"
+		texturefile = "gfx/interface/decisions/new_GER78.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER79"
+		texturefile = "gfx/interface/decisions/new_GER79.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER80"
+		texturefile = "gfx/interface/decisions/new_GER80.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GER81"
+		texturefile = "gfx/interface/decisions/new_GER81.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_new_GER82"
+		texturefile = "gfx/interface/decisions/new_GER82.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ARG1"
+		texturefile = "gfx/interface/decisions/new_ARG1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ARG2"
+		texturefile = "gfx/interface/decisions/new_ARG2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ARG3"
+		texturefile = "gfx/interface/decisions/new_ARG3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ARG4"
+		texturefile = "gfx/interface/decisions/new_ARG4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ARG5"
+		texturefile = "gfx/interface/decisions/new_ARG5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ALB1"
+		texturefile = "gfx/interface/decisions/new_ALB1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ALB2"
+		texturefile = "gfx/interface/decisions/new_ALB2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ALB3"
+		texturefile = "gfx/interface/decisions/new_ALB3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ALB4"
+		texturefile = "gfx/interface/decisions/new_ALB4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ALB5"
+		texturefile = "gfx/interface/decisions/new_ALB5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ALB6"
+		texturefile = "gfx/interface/decisions/new_ALB6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ALB7"
+		texturefile = "gfx/interface/decisions/new_ALB7.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ALB8"
+		texturefile = "gfx/interface/decisions/new_ALB8.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ALB9"
+		texturefile = "gfx/interface/decisions/new_ALB9.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ALB10"
+		texturefile = "gfx/interface/decisions/new_ALB10.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ITA1"
+		texturefile = "gfx/interface/decisions/new_ITA1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ITA2"
+		texturefile = "gfx/interface/decisions/new_ITA2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ITA3"
+		texturefile = "gfx/interface/decisions/new_ITA3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ITA4"
+		texturefile = "gfx/interface/decisions/new_ITA4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ITA5"
+		texturefile = "gfx/interface/decisions/new_ITA5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ITA6"
+		texturefile = "gfx/interface/decisions/new_ITA6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ITA7"
+		texturefile = "gfx/interface/decisions/new_ITA7.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ITA8"
+		texturefile = "gfx/interface/decisions/new_ITA8.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ITA9"
+		texturefile = "gfx/interface/decisions/new_ITA9.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_JAP1"
+		texturefile = "gfx/interface/decisions/new_JAP1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_JAP2"
+		texturefile = "gfx/interface/decisions/new_JAP2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_JAP3"
+		texturefile = "gfx/interface/decisions/new_JAP3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_JAP4"
+		texturefile = "gfx/interface/decisions/new_JAP4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_JAP5"
+		texturefile = "gfx/interface/decisions/new_JAP5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_JAP6"
+		texturefile = "gfx/interface/decisions/new_JAP6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_JAP7"
+		texturefile = "gfx/interface/decisions/new_JAP7.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_JAP8"
+		texturefile = "gfx/interface/decisions/new_JAP8.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_JAP9"
+		texturefile = "gfx/interface/decisions/new_JAP9.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SAF1"
+		texturefile = "gfx/interface/decisions/new_SAF1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SAF2"
+		texturefile = "gfx/interface/decisions/new_SAF2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SAF3"
+		texturefile = "gfx/interface/decisions/new_SAF3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SAF4"
+		texturefile = "gfx/interface/decisions/new_SAF4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_VIN1"
+		texturefile = "gfx/interface/decisions/new_VIN1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_VIN2"
+		texturefile = "gfx/interface/decisions/new_VIN2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SOV1"
+		texturefile = "gfx/interface/decisions/new_SOV1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SOV2"
+		texturefile = "gfx/interface/decisions/new_SOV2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SOV3"
+		texturefile = "gfx/interface/decisions/new_SOV3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SOV4"
+		texturefile = "gfx/interface/decisions/new_SOV4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SOV5"
+		texturefile = "gfx/interface/decisions/new_SOV5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SOV6"
+		texturefile = "gfx/interface/decisions/new_SOV6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SOV7"
+		texturefile = "gfx/interface/decisions/new_SOV7.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SOV8"
+		texturefile = "gfx/interface/decisions/new_SOV8.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SOV9"
+		texturefile = "gfx/interface/decisions/new_SOV9.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SOV10"
+		texturefile = "gfx/interface/decisions/new_SOV10.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SOV11"
+		texturefile = "gfx/interface/decisions/new_SOV11.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SOV12"
+		texturefile = "gfx/interface/decisions/new_SOV12.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SOV13"
+		texturefile = "gfx/interface/decisions/new_SOV13.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SOV14"
+		texturefile = "gfx/interface/decisions/new_SOV14.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SOV15"
+		texturefile = "gfx/interface/decisions/new_SOV15.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SOV16"
+		texturefile = "gfx/interface/decisions/new_SOV16.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SOV17"
+		texturefile = "gfx/interface/decisions/new_SOV17.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SOV18"
+		texturefile = "gfx/interface/decisions/new_SOV18.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SOV19"
+		texturefile = "gfx/interface/decisions/new_SOV19.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SOV20"
+		texturefile = "gfx/interface/decisions/new_SOV20.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SOV21"
+		texturefile = "gfx/interface/decisions/new_SOV21.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SOV22"
+		texturefile = "gfx/interface/decisions/new_SOV22.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SOV23"
+		texturefile = "gfx/interface/decisions/new_SOV23.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SOV24"
+		texturefile = "gfx/interface/decisions/new_SOV24.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SOV25"
+		texturefile = "gfx/interface/decisions/new_SOV25.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SOV26"
+		texturefile = "gfx/interface/decisions/new_SOV26.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SOV27"
+		texturefile = "gfx/interface/decisions/new_SOV27.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SOV28"
+		texturefile = "gfx/interface/decisions/new_SOV28.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SOV29"
+		texturefile = "gfx/interface/decisions/new_SOV29.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SOV30"
+		texturefile = "gfx/interface/decisions/new_SOV30.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SOV31"
+		texturefile = "gfx/interface/decisions/new_SOV31.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SOV32"
+		texturefile = "gfx/interface/decisions/new_SOV32.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_SOV33"
+		texturefile = "gfx/interface/decisions/new_SOV33.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GRE1"
+		texturefile = "gfx/interface/decisions/new_GRE1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GRE2"
+		texturefile = "gfx/interface/decisions/new_GRE2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GRE3"
+		texturefile = "gfx/interface/decisions/new_GRE3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GRE4"
+		texturefile = "gfx/interface/decisions/new_GRE4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GRE5"
+		texturefile = "gfx/interface/decisions/new_GRE5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GRE6"
+		texturefile = "gfx/interface/decisions/new_GRE6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GRE7"
+		texturefile = "gfx/interface/decisions/new_GRE7.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GRE8"
+		texturefile = "gfx/interface/decisions/new_GRE8.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GRE9"
+		texturefile = "gfx/interface/decisions/new_GRE9.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GRE10"
+		texturefile = "gfx/interface/decisions/new_GRE10.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GRE11"
+		texturefile = "gfx/interface/decisions/new_GRE11.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GRE12"
+		texturefile = "gfx/interface/decisions/new_GRE12.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GRE13"
+		texturefile = "gfx/interface/decisions/new_GRE13.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GRE14"
+		texturefile = "gfx/interface/decisions/new_GRE14.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GRE15"
+		texturefile = "gfx/interface/decisions/new_GRE15.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_GRE16"
+		texturefile = "gfx/interface/decisions/new_GRE16.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_MAN1"
+		texturefile = "gfx/interface/decisions/new_MAN1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_MAN2"
+		texturefile = "gfx/interface/decisions/new_MAN2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_MAN3"
+		texturefile = "gfx/interface/decisions/new_MAN3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_MAN4"
+		texturefile = "gfx/interface/decisions/new_MAN4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_MAN5"
+		texturefile = "gfx/interface/decisions/new_MAN5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_MAN6"
+		texturefile = "gfx/interface/decisions/new_MAN6.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_new_MAN7"
+		texturefile = "gfx/interface/decisions/new_MAN7.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_new_MAN8"
+		texturefile = "gfx/interface/decisions/new_MAN8.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_new_MAN9"
+		texturefile = "gfx/interface/decisions/new_MAN9.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_PER1"
+		texturefile = "gfx/interface/decisions/new_PER1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_PER2"
+		texturefile = "gfx/interface/decisions/new_PER2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_PER3"
+		texturefile = "gfx/interface/decisions/new_PER3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_UKR1"
+		texturefile = "gfx/interface/decisions/new_UKR1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_UKR2"
+		texturefile = "gfx/interface/decisions/new_UKR2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_UKR3"
+		texturefile = "gfx/interface/decisions/new_UKR3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_IRE1"
+		texturefile = "gfx/interface/decisions/new_IRE1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_IRE2"
+		texturefile = "gfx/interface/decisions/new_IRE2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_IRE3"
+		texturefile = "gfx/interface/decisions/new_IRE3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_IRE4"
+		texturefile = "gfx/interface/decisions/new_IRE4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ENG1"
+		texturefile = "gfx/interface/decisions/new_ENG1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ENG2"
+		texturefile = "gfx/interface/decisions/new_ENG2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ENG3"
+		texturefile = "gfx/interface/decisions/new_ENG3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ENG4"
+		texturefile = "gfx/interface/decisions/new_ENG4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ENG5"
+		texturefile = "gfx/interface/decisions/new_ENG5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ENG6"
+		texturefile = "gfx/interface/decisions/new_ENG6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ENG7"
+		texturefile = "gfx/interface/decisions/new_ENG7.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ENG8"
+		texturefile = "gfx/interface/decisions/new_ENG8.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ENG9"
+		texturefile = "gfx/interface/decisions/new_ENG9.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ENG10"
+		texturefile = "gfx/interface/decisions/new_ENG10.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ENG11"
+		texturefile = "gfx/interface/decisions/new_ENG11.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ENG12"
+		texturefile = "gfx/interface/decisions/new_ENG12.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ENG13"
+		texturefile = "gfx/interface/decisions/new_ENG13.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ENG14"
+		texturefile = "gfx/interface/decisions/new_ENG14.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ENG15"
+		texturefile = "gfx/interface/decisions/new_ENG15.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ENG16"
+		texturefile = "gfx/interface/decisions/new_ENG16.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ENG17"
+		texturefile = "gfx/interface/decisions/new_ENG17.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ENG18"
+		texturefile = "gfx/interface/decisions/new_ENG18.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ENG19"
+		texturefile = "gfx/interface/decisions/new_ENG19.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ENG20"
+		texturefile = "gfx/interface/decisions/new_ENG20.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ENG21"
+		texturefile = "gfx/interface/decisions/new_ENG21.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ENG22"
+		texturefile = "gfx/interface/decisions/new_ENG22.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ENG23"
+		texturefile = "gfx/interface/decisions/new_ENG23.dds"
+	}
+
+	spriteType = {
+		name = "GFX_new_ENG24"
+		texturefile = "gfx/interface/decisions/new_ENG24.dds"
+	}
+
+}

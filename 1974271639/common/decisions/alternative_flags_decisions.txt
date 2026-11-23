@@ -1,0 +1,4431 @@
+alternative_flags_category = {
+	
+	get_new_LEB1 = {
+		icon = GFX_new_LEB1
+		allowed = {original_tag = LEB}
+		visible = {original_tag = LEB}
+		complete_effect = {set_cosmetic_tag = new_LEB1}
+	}
+
+	get_new_KAZ1 = {
+		icon = GFX_new_KAZ1
+		allowed = {original_tag = KAZ}
+		visible = {original_tag = KAZ}
+		complete_effect = {set_cosmetic_tag = new_KAZ1}
+	}
+
+	get_new_KAZ2 = {
+		icon = GFX_new_KAZ2
+		allowed = {original_tag = KAZ}
+		visible = {original_tag = KAZ}
+		complete_effect = {set_cosmetic_tag = new_KAZ2}
+	}
+
+	get_new_KAZ3 = {
+		icon = GFX_new_KAZ3
+		allowed = {original_tag = KAZ}
+		visible = {original_tag = KAZ}
+		complete_effect = {set_cosmetic_tag = new_KAZ3}
+	}
+
+	get_new_KAZ4 = {
+		icon = GFX_new_KAZ4
+		allowed = {original_tag = KAZ}
+		visible = {original_tag = KAZ}
+		complete_effect = {set_cosmetic_tag = new_KAZ4}
+	}
+
+	get_new_MEX1 = {
+		icon = GFX_new_MEX1
+		allowed = {original_tag = MEX}
+		visible = {original_tag = MEX}
+		complete_effect = {set_cosmetic_tag = new_MEX1}
+	}
+
+	get_new_MEX2 = {
+		icon = GFX_new_MEX2
+		allowed = {original_tag = MEX}
+		visible = {original_tag = MEX}
+		complete_effect = {set_cosmetic_tag = new_MEX2}
+	}
+
+	get_new_MEX3 = {
+		icon = GFX_new_MEX3
+		allowed = {original_tag = MEX}
+		visible = {original_tag = MEX}
+		complete_effect = {set_cosmetic_tag = new_MEX3}
+	}
+
+	get_new_MEX4 = {
+		icon = GFX_new_MEX4
+		allowed = {original_tag = MEX}
+		visible = {original_tag = MEX}
+		complete_effect = {set_cosmetic_tag = new_MEX4}
+	}
+
+	get_new_MEX5 = {
+		icon = GFX_new_MEX5
+		allowed = {original_tag = MEX}
+		visible = {original_tag = MEX}
+		complete_effect = {set_cosmetic_tag = new_MEX5}
+	}
+
+	get_new_MEX6 = {
+		icon = GFX_new_MEX6
+		allowed = {original_tag = MEX}
+		visible = {original_tag = MEX}
+		complete_effect = {set_cosmetic_tag = new_MEX6}
+	}
+
+	get_new_MEX7 = {
+		icon = GFX_new_MEX7
+		allowed = {original_tag = MEX}
+		visible = {original_tag = MEX}
+		complete_effect = {set_cosmetic_tag = new_MEX7}
+	}
+
+	get_new_MEX8 = {
+		icon = GFX_new_MEX8
+		allowed = {original_tag = MEX}
+		visible = {original_tag = MEX}
+		complete_effect = {set_cosmetic_tag = new_MEX8}
+	}
+
+	get_new_MEX9 = {
+		icon = GFX_new_MEX9
+		allowed = {original_tag = MEX}
+		visible = {original_tag = MEX}
+		complete_effect = {set_cosmetic_tag = new_MEX9}
+	}
+
+	get_new_MEX10 = {
+		icon = GFX_new_MEX10
+		allowed = {original_tag = MEX}
+		visible = {original_tag = MEX}
+		complete_effect = {set_cosmetic_tag = new_MEX10}
+	}
+
+	get_new_MEX11 = {
+		icon = GFX_new_MEX11
+		allowed = {original_tag = MEX}
+		visible = {original_tag = MEX}
+		complete_effect = {set_cosmetic_tag = new_MEX11}
+	}
+
+	get_new_MEX12 = {
+		icon = GFX_new_MEX12
+		allowed = {original_tag = MEX}
+		visible = {original_tag = MEX}
+		complete_effect = {set_cosmetic_tag = new_MEX12}
+	}
+
+	get_new_MEX13 = {
+		icon = GFX_new_MEX13
+		allowed = {original_tag = MEX}
+		visible = {original_tag = MEX}
+		complete_effect = {set_cosmetic_tag = new_MEX13}
+	}
+
+	get_new_MEX14 = {
+		icon = GFX_new_MEX14
+		allowed = {original_tag = MEX}
+		visible = {original_tag = MEX}
+		complete_effect = {set_cosmetic_tag = new_MEX14}
+	}
+
+	get_new_MEX15 = {
+		icon = GFX_new_MEX15
+		allowed = {original_tag = MEX}
+		visible = {original_tag = MEX}
+		complete_effect = {set_cosmetic_tag = new_MEX15}
+	}
+
+	get_new_MEX16 = {
+		icon = GFX_new_MEX16
+		allowed = {original_tag = MEX}
+		visible = {original_tag = MEX}
+		complete_effect = {set_cosmetic_tag = new_MEX16}
+	}
+
+	get_new_SER1 = {
+		icon = GFX_new_SER1
+		allowed = {original_tag = SER}
+		visible = {original_tag = SER}
+		complete_effect = {set_cosmetic_tag = new_SER1}
+	}
+
+	get_new_SER2 = {
+		icon = GFX_new_SER2
+		allowed = {original_tag = SER}
+		visible = {original_tag = SER}
+		complete_effect = {set_cosmetic_tag = new_SER2}
+	}
+
+	get_new_SER3 = {
+		icon = GFX_new_SER3
+		allowed = {original_tag = SER}
+		visible = {original_tag = SER}
+		complete_effect = {set_cosmetic_tag = new_SER3}
+	}
+
+	get_new_SER4 = {
+		icon = GFX_new_SER4
+		allowed = {original_tag = SER}
+		visible = {original_tag = SER}
+		complete_effect = {set_cosmetic_tag = new_SER4}
+	}
+
+	get_new_SER5 = {
+		icon = GFX_new_SER5
+		allowed = {original_tag = SER}
+		visible = {original_tag = SER}
+		complete_effect = {set_cosmetic_tag = new_SER5}
+	}
+
+	get_new_SER6 = {
+		icon = GFX_new_SER6
+		allowed = {original_tag = SER}
+		visible = {original_tag = SER}
+		complete_effect = {set_cosmetic_tag = new_SER6}
+	}
+
+	get_new_CRO1 = {
+		icon = GFX_new_CRO1
+		allowed = {original_tag = CRO}
+		visible = {original_tag = CRO}
+		complete_effect = {set_cosmetic_tag = new_CRO1}
+	}
+
+	get_new_CRO2 = {
+		icon = GFX_new_CRO2
+		allowed = {original_tag = CRO}
+		visible = {original_tag = CRO}
+		complete_effect = {set_cosmetic_tag = new_CRO2}
+	}
+
+	get_new_CRO3 = {
+		icon = GFX_new_CRO3
+		allowed = {original_tag = CRO}
+		visible = {original_tag = CRO}
+		complete_effect = {set_cosmetic_tag = new_CRO3}
+	}
+
+	get_new_CRO4 = {
+		icon = GFX_new_CRO4
+		allowed = {original_tag = CRO}
+		visible = {original_tag = CRO}
+		complete_effect = {set_cosmetic_tag = new_CRO4}
+	}
+
+	get_new_CRO5 = {
+		icon = GFX_new_CRO5
+		allowed = {original_tag = CRO}
+		visible = {original_tag = CRO}
+		complete_effect = {set_cosmetic_tag = new_CRO5}
+	}
+
+	get_new_CRO6 = {
+		icon = GFX_new_CRO6
+		allowed = {original_tag = CRO}
+		visible = {original_tag = CRO}
+		complete_effect = {set_cosmetic_tag = new_CRO6}
+	}
+
+	get_new_NZL1 = {
+		icon = GFX_new_NZL1
+		allowed = {original_tag = NZL}
+		visible = {original_tag = NZL}
+		complete_effect = {set_cosmetic_tag = new_NZL1}
+	}
+
+	get_new_NZL2 = {
+		icon = GFX_new_NZL2
+		allowed = {original_tag = NZL}
+		visible = {original_tag = NZL}
+		complete_effect = {set_cosmetic_tag = new_NZL2}
+	}
+
+	get_new_NZL3 = {
+		icon = GFX_new_NZL3
+		allowed = {original_tag = NZL}
+		visible = {original_tag = NZL}
+		complete_effect = {set_cosmetic_tag = new_NZL3}
+	}
+
+	get_new_NZL4 = {
+		icon = GFX_new_NZL4
+		allowed = {original_tag = NZL}
+		visible = {original_tag = NZL}
+		complete_effect = {set_cosmetic_tag = new_NZL4}
+	}
+
+	get_new_NZL5 = {
+		icon = GFX_new_NZL5
+		allowed = {original_tag = NZL}
+		visible = {original_tag = NZL}
+		complete_effect = {set_cosmetic_tag = new_NZL5}
+	}
+
+	get_new_NZL6 = {
+		icon = GFX_new_NZL6
+		allowed = {original_tag = NZL}
+		visible = {original_tag = NZL}
+		complete_effect = {set_cosmetic_tag = new_NZL6}
+	}
+
+	get_new_CHI1 = {
+		icon = GFX_new_CHI1
+		allowed = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		visible = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		complete_effect = {set_cosmetic_tag = new_CHI1}
+	}
+
+	get_new_CHI2 = {
+		icon = GFX_new_CHI2
+		allowed = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		visible = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		complete_effect = {set_cosmetic_tag = new_CHI2}
+	}
+
+	get_new_CHI3 = {
+		icon = GFX_new_CHI3
+		allowed = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		visible = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		complete_effect = {set_cosmetic_tag = new_CHI3}
+	}
+
+	get_new_CHI4 = {
+		icon = GFX_new_CHI4
+		allowed = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		visible = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		complete_effect = {set_cosmetic_tag = new_CHI4}
+	}
+
+	get_new_CHI5 = {
+		icon = GFX_new_CHI5
+		allowed = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		visible = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		complete_effect = {set_cosmetic_tag = new_CHI5}
+	}
+
+	get_new_CHI6 = {
+		icon = GFX_new_CHI6
+		allowed = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		visible = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		complete_effect = {set_cosmetic_tag = new_CHI6}
+	}
+
+	get_new_CHI7 = {
+		icon = GFX_new_CHI7
+		allowed = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		visible = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		complete_effect = {set_cosmetic_tag = new_CHI7}
+	}
+
+	get_new_CHI8 = {
+		icon = GFX_new_CHI8
+		allowed = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		visible = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		complete_effect = {set_cosmetic_tag = new_CHI8}
+	}
+
+	get_new_CHI9 = {
+		icon = GFX_new_CHI9
+		allowed = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		visible = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		complete_effect = {set_cosmetic_tag = new_CHI9}
+	}
+
+	get_new_CHI10 = {
+		icon = GFX_new_CHI10
+		allowed = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		visible = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		complete_effect = {set_cosmetic_tag = new_CHI10}
+	}
+
+	get_new_CHI11 = {
+		icon = GFX_new_CHI11
+		allowed = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		visible = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		complete_effect = {set_cosmetic_tag = new_CHI11}
+	}
+
+	get_new_CHI12 = {
+		icon = GFX_new_CHI12
+		allowed = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		visible = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		complete_effect = {set_cosmetic_tag = new_CHI12}
+	}
+
+	get_new_CHI13 = {
+		icon = GFX_new_CHI13
+		allowed = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		visible = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		complete_effect = {set_cosmetic_tag = new_CHI13}
+	}
+
+	get_new_CHI14 = {
+		icon = GFX_new_CHI14
+		allowed = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		visible = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		complete_effect = {set_cosmetic_tag = new_CHI14}
+	}
+
+	get_new_CHI15 = {
+		icon = GFX_new_CHI15
+		allowed = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		visible = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		complete_effect = {set_cosmetic_tag = new_CHI15}
+	}
+
+	get_new_CHI16 = {
+		icon = GFX_new_CHI16
+		allowed = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		visible = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		complete_effect = {set_cosmetic_tag = new_CHI16}
+	}
+
+	get_new_CHI17 = {
+		icon = GFX_new_CHI17
+		allowed = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		visible = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		complete_effect = {set_cosmetic_tag = new_CHI17}
+	}
+
+	get_new_CHI18 = {
+		icon = GFX_new_CHI18
+		allowed = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		visible = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		complete_effect = {set_cosmetic_tag = new_CHI18}
+	}
+
+	get_new_CHI19 = {
+		icon = GFX_new_CHI19
+		allowed = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		visible = {
+			OR = {
+				original_tag = CHI
+				original_tag = PRC
+				original_tag = GXC
+				original_tag = YUN
+				original_tag = XSM
+				original_tag = SIK
+				original_tag = SHX
+			}
+		}
+		complete_effect = {set_cosmetic_tag = new_CHI19}
+	}
+
+	get_new_SAU1 = {
+		icon = GFX_new_SAU1
+		allowed = {original_tag = SAU}
+		visible = {original_tag = SAU}
+		complete_effect = {set_cosmetic_tag = new_SAU1}
+	}
+
+	get_new_SAU2 = {
+		icon = GFX_new_SAU2
+		allowed = {original_tag = SAU}
+		visible = {original_tag = SAU}
+		complete_effect = {set_cosmetic_tag = new_SAU2}
+	}
+
+	get_new_SAU3 = {
+		icon = GFX_new_SAU3
+		allowed = {original_tag = SAU}
+		visible = {original_tag = SAU}
+		complete_effect = {set_cosmetic_tag = new_SAU3}
+	}
+
+	get_new_SAU4 = {
+		icon = GFX_new_SAU4
+		allowed = {original_tag = SAU}
+		visible = {original_tag = SAU}
+		complete_effect = {set_cosmetic_tag = new_SAU4}
+	}
+
+	get_new_SAU5 = {
+		icon = GFX_new_SAU5
+		allowed = {original_tag = SAU}
+		visible = {original_tag = SAU}
+		complete_effect = {set_cosmetic_tag = new_SAU5}
+	}
+
+	get_new_SAU6 = {
+		icon = GFX_new_SAU6
+		allowed = {original_tag = SAU}
+		visible = {original_tag = SAU}
+		complete_effect = {set_cosmetic_tag = new_SAU6}
+	}
+
+	get_new_SAU7 = {
+		icon = GFX_new_SAU7
+		allowed = {original_tag = SAU}
+		visible = {original_tag = SAU}
+		complete_effect = {set_cosmetic_tag = new_SAU7}
+	}
+
+	get_new_SPR1 = {
+		icon = GFX_new_SPR1
+		allowed = {original_tag = SPR}
+		visible = {original_tag = SPR}
+		complete_effect = {set_cosmetic_tag = new_SPR1}
+	}
+
+	get_new_SPR2 = {
+		icon = GFX_new_SPR2
+		allowed = {original_tag = SPR}
+		visible = {original_tag = SPR}
+		complete_effect = {set_cosmetic_tag = new_SPR2}
+	}
+
+	get_new_SPR3 = {
+		icon = GFX_new_SPR3
+		allowed = {original_tag = SPR}
+		visible = {original_tag = SPR}
+		complete_effect = {set_cosmetic_tag = new_SPR3}
+	}
+
+	get_new_SPR4 = {
+		icon = GFX_new_SPR4
+		allowed = {original_tag = SPR}
+		visible = {original_tag = SPR}
+		complete_effect = {set_cosmetic_tag = new_SPR4}
+	}
+
+	get_new_SPR5 = {
+		icon = GFX_new_SPR5
+		allowed = {original_tag = SPR}
+		visible = {original_tag = SPR}
+		complete_effect = {set_cosmetic_tag = new_SPR5}
+	}
+
+	get_new_SPR6 = {
+		icon = GFX_new_SPR6
+		allowed = {original_tag = SPR}
+		visible = {original_tag = SPR}
+		complete_effect = {set_cosmetic_tag = new_SPR6}
+	}
+
+	get_new_SPR7 = {
+		icon = GFX_new_SPR7
+		allowed = {original_tag = SPR}
+		visible = {original_tag = SPR}
+		complete_effect = {set_cosmetic_tag = new_SPR7}
+	}
+
+	get_new_SPR8 = {
+		icon = GFX_new_SPR8
+		allowed = {original_tag = SPR}
+		visible = {original_tag = SPR}
+		complete_effect = {set_cosmetic_tag = new_SPR8}
+	}
+
+	get_new_SPR9 = {
+		icon = GFX_new_SPR9
+		allowed = {original_tag = SPR}
+		visible = {original_tag = SPR}
+		complete_effect = {set_cosmetic_tag = new_SPR9}
+	}
+
+	get_new_BUL1 = {
+		icon = GFX_new_BUL1
+		allowed = {original_tag = BUL}
+		visible = {original_tag = BUL}
+		complete_effect = {set_cosmetic_tag = new_BUL1}
+	}
+
+	get_new_BUL2 = {
+		icon = GFX_new_BUL2
+		allowed = {original_tag = BUL}
+		visible = {original_tag = BUL}
+		complete_effect = {set_cosmetic_tag = new_BUL2}
+	}
+
+	get_new_BUL3 = {
+		icon = GFX_new_BUL3
+		allowed = {original_tag = BUL}
+		visible = {original_tag = BUL}
+		complete_effect = {set_cosmetic_tag = new_BUL3}
+	}
+
+	get_new_BUL4 = {
+		icon = GFX_new_BUL4
+		allowed = {original_tag = BUL}
+		visible = {original_tag = BUL}
+		complete_effect = {set_cosmetic_tag = new_BUL4}
+	}
+
+	get_new_BUL5 = {
+		icon = GFX_new_BUL5
+		allowed = {original_tag = BUL}
+		visible = {original_tag = BUL}
+		complete_effect = {set_cosmetic_tag = new_BUL5}
+	}
+
+	get_new_BUL6 = {
+		icon = GFX_new_BUL6
+		allowed = {original_tag = BUL}
+		visible = {original_tag = BUL}
+		complete_effect = {set_cosmetic_tag = new_BUL6}
+	}
+
+	get_new_BUL7 = {
+		icon = GFX_new_BUL7
+		allowed = {original_tag = BUL}
+		visible = {original_tag = BUL}
+		complete_effect = {set_cosmetic_tag = new_BUL7}
+	}
+
+	get_new_BUL8 = {
+		icon = GFX_new_BUL8
+		allowed = {original_tag = BUL}
+		visible = {original_tag = BUL}
+		complete_effect = {set_cosmetic_tag = new_BUL8}
+	}
+
+	get_new_BUL9 = {
+		icon = GFX_new_BUL9
+		allowed = {original_tag = BUL}
+		visible = {original_tag = BUL}
+		complete_effect = {set_cosmetic_tag = new_BUL9}
+	}
+
+	get_new_BUL10 = {
+		icon = GFX_new_BUL10
+		allowed = {original_tag = BUL}
+		visible = {original_tag = BUL}
+		complete_effect = {set_cosmetic_tag = new_BUL10}
+	}
+
+	get_new_BUL11 = {
+		icon = GFX_new_BUL11
+		allowed = {original_tag = BUL}
+		visible = {original_tag = BUL}
+		complete_effect = {set_cosmetic_tag = new_BUL11}
+	}
+
+	get_new_BUL12 = {
+		icon = GFX_new_BUL12
+		allowed = {original_tag = BUL}
+		visible = {original_tag = BUL}
+		complete_effect = {set_cosmetic_tag = new_BUL12}
+	}
+
+	get_new_BUL13 = {
+		icon = GFX_new_BUL13
+		allowed = {original_tag = BUL}
+		visible = {original_tag = BUL}
+		complete_effect = {set_cosmetic_tag = new_BUL13}
+	}
+
+	get_new_BUL14 = {
+		icon = GFX_new_BUL14
+		allowed = {original_tag = BUL}
+		visible = {original_tag = BUL}
+		complete_effect = {set_cosmetic_tag = new_BUL14}
+	}
+
+	get_new_BUL15 = {
+		icon = GFX_new_BUL15
+		allowed = {original_tag = BUL}
+		visible = {original_tag = BUL}
+		complete_effect = {set_cosmetic_tag = new_BUL15}
+	}
+
+	get_new_BUL16 = {
+		icon = GFX_new_BUL16
+		allowed = {original_tag = BUL}
+		visible = {original_tag = BUL}
+		complete_effect = {set_cosmetic_tag = new_BUL16}
+	}
+
+	get_new_BUL17 = {
+		icon = GFX_new_BUL17
+		allowed = {original_tag = BUL}
+		visible = {original_tag = BUL}
+		complete_effect = {set_cosmetic_tag = new_BUL17}
+	}
+
+	get_new_BUL18 = {
+		icon = GFX_new_BUL18
+		allowed = {original_tag = BUL}
+		visible = {original_tag = BUL}
+		complete_effect = {set_cosmetic_tag = new_BUL18}
+	}
+
+	get_new_BUL19 = {
+		icon = GFX_new_BUL19
+		allowed = {original_tag = BUL}
+		visible = {original_tag = BUL}
+		complete_effect = {set_cosmetic_tag = new_BUL19}
+	}
+
+	get_new_BUL20 = {
+		icon = GFX_new_BUL20
+		allowed = {original_tag = BUL}
+		visible = {original_tag = BUL}
+		complete_effect = {set_cosmetic_tag = new_BUL20}
+	}
+
+	get_new_BUL21 = {
+		icon = GFX_new_BUL21
+		allowed = {original_tag = BUL}
+		visible = {original_tag = BUL}
+		complete_effect = {set_cosmetic_tag = new_BUL21}
+	}
+
+	get_new_BUL22 = {
+		icon = GFX_new_BUL22
+		allowed = {original_tag = BUL}
+		visible = {original_tag = BUL}
+		complete_effect = {set_cosmetic_tag = new_BUL22}
+	}
+
+	get_new_BUL23 = {
+		icon = GFX_new_BUL23
+		allowed = {original_tag = BUL}
+		visible = {original_tag = BUL}
+		complete_effect = {set_cosmetic_tag = new_BUL23}
+	}
+
+	get_new_BUL24 = {
+		icon = GFX_new_BUL24
+		allowed = {original_tag = BUL}
+		visible = {original_tag = BUL}
+		complete_effect = {set_cosmetic_tag = new_BUL24}
+	}
+
+	get_new_BUL25 = {
+		icon = GFX_new_BUL25
+		allowed = {original_tag = BUL}
+		visible = {original_tag = BUL}
+		complete_effect = {set_cosmetic_tag = new_BUL25}
+	}
+
+	get_new_BUL26 = {
+		icon = GFX_new_BUL26
+		allowed = {original_tag = BUL}
+		visible = {original_tag = BUL}
+		complete_effect = {set_cosmetic_tag = new_BUL26}
+	}
+
+	get_new_BUL27 = {
+		icon = GFX_new_BUL27
+		allowed = {original_tag = BUL}
+		visible = {original_tag = BUL}
+		complete_effect = {set_cosmetic_tag = new_BUL27}
+	}
+
+	get_new_BUL28 = {
+		icon = GFX_new_BUL28
+		allowed = {original_tag = BUL}
+		visible = {original_tag = BUL}
+		complete_effect = {set_cosmetic_tag = new_BUL28}
+	}
+
+	get_new_BUL29 = {
+		icon = GFX_new_BUL29
+		allowed = {original_tag = BUL}
+
+		visible = {original_tag = BUL}
+		complete_effect = {set_cosmetic_tag = new_BUL29}
+	}
+
+	get_new_CYP1 = {
+		icon = GFX_new_CYP1
+		allowed = {original_tag = CYP}
+		visible = {original_tag = CYP}
+		complete_effect = {set_cosmetic_tag = new_CYP1}
+	}
+
+	get_new_CYP2 = {
+		icon = GFX_new_CYP2
+		allowed = {original_tag = CYP}
+		visible = {original_tag = CYP}
+		complete_effect = {set_cosmetic_tag = new_CYP2}
+	}
+
+	get_new_CYP3 = {
+		icon = GFX_new_CYP3
+		allowed = {original_tag = CYP}
+		visible = {original_tag = CYP}
+		complete_effect = {set_cosmetic_tag = new_CYP3}
+	}
+
+	get_new_SLV1 = {
+		icon = GFX_new_SLV1
+		allowed = {original_tag = SLV}
+		visible = {original_tag = SLV}
+		complete_effect = {set_cosmetic_tag = new_SLV1}
+	}
+
+	get_new_SLV2 = {
+		icon = GFX_new_SLV2
+		allowed = {original_tag = SLV}
+		visible = {original_tag = SLV}
+		complete_effect = {set_cosmetic_tag = new_SLV2}
+	}
+
+	get_new_SLV3 = {
+		icon = GFX_new_SLV3
+		allowed = {original_tag = SLV}
+		visible = {original_tag = SLV}
+		complete_effect = {set_cosmetic_tag = new_SLV3}
+	}
+
+	get_new_SLV4 = {
+		icon = GFX_new_SLV4
+		allowed = {original_tag = SLV}
+		visible = {original_tag = SLV}
+		complete_effect = {set_cosmetic_tag = new_SLV4}
+	}
+
+	get_new_AUS1 = {
+		icon = GFX_new_AUS1
+		allowed = {original_tag = AUS}
+		visible = {original_tag = AUS}
+		complete_effect = {set_cosmetic_tag = new_AUS1}
+	}
+
+	get_new_AUS2 = {
+		icon = GFX_new_AUS2
+		allowed = {original_tag = AUS}
+		visible = {original_tag = AUS}
+		complete_effect = {set_cosmetic_tag = new_AUS2}
+	}
+
+	get_new_AUS3 = {
+		icon = GFX_new_AUS3
+		allowed = {original_tag = AUS}
+		visible = {original_tag = AUS}
+		complete_effect = {set_cosmetic_tag = new_AUS3}
+	}
+
+	get_new_AUS4 = {
+		icon = GFX_new_AUS4
+		allowed = {original_tag = AUS}
+		visible = {original_tag = AUS}
+		complete_effect = {set_cosmetic_tag = new_AUS4}
+	}
+
+	get_new_AUS5 = {
+		icon = GFX_new_AUS5
+		allowed = {original_tag = AUS}
+		visible = {original_tag = AUS}
+		complete_effect = {set_cosmetic_tag = new_AUS5}
+	}
+
+	get_new_AUS6 = {
+		icon = GFX_new_AUS6
+		allowed = {original_tag = AUS}
+		visible = {original_tag = AUS}
+		complete_effect = {set_cosmetic_tag = new_AUS6}
+	}
+
+	get_new_AUS7 = {
+		icon = GFX_new_AUS7
+		allowed = {original_tag = AUS}
+		visible = {original_tag = AUS}
+		complete_effect = {set_cosmetic_tag = new_AUS7}
+	}
+
+	get_new_AUS8 = {
+		icon = GFX_new_AUS8
+		allowed = {original_tag = AUS}
+		visible = {original_tag = AUS}
+		complete_effect = {set_cosmetic_tag = new_AUS8}
+	}
+
+	get_new_AUS9 = {
+		icon = GFX_new_AUS9
+		allowed = {original_tag = AUS}
+		visible = {original_tag = AUS}
+		complete_effect = {set_cosmetic_tag = new_AUS9}
+	}
+
+	get_new_AUS10 = {
+		icon = GFX_new_AUS10
+		allowed = {original_tag = AUS}
+		visible = {original_tag = AUS}
+		complete_effect = {set_cosmetic_tag = new_AUS10}
+	}
+
+	get_new_AUS11 = {
+		icon = GFX_new_AUS11
+		allowed = {original_tag = AUS}
+		visible = {original_tag = AUS}
+		complete_effect = {set_cosmetic_tag = new_AUS11}
+	}
+
+	get_new_AUS12 = {
+		icon = GFX_new_AUS12
+		allowed = {original_tag = AUS}
+		visible = {original_tag = AUS}
+		complete_effect = {set_cosmetic_tag = new_AUS12}
+	}
+
+	get_new_HUN1 = {
+		icon = GFX_new_HUN1
+		allowed = {original_tag = HUN}
+		visible = {original_tag = HUN}
+		complete_effect = {set_cosmetic_tag = new_HUN1}
+	}
+
+	get_new_HUN2 = {
+		icon = GFX_new_HUN2
+		allowed = {original_tag = HUN}
+		visible = {original_tag = HUN}
+		complete_effect = {set_cosmetic_tag = new_HUN2}
+	}
+
+	get_new_HUN3 = {
+		icon = GFX_new_HUN3
+		allowed = {original_tag = HUN}
+		visible = {original_tag = HUN}
+		complete_effect = {set_cosmetic_tag = new_HUN3}
+	}
+
+	get_new_HUN4 = {
+		icon = GFX_new_HUN4
+		allowed = {original_tag = HUN}
+		visible = {original_tag = HUN}
+		complete_effect = {set_cosmetic_tag = new_HUN4}
+	}
+
+	get_new_HUN5 = {
+		icon = GFX_new_HUN5
+		allowed = {original_tag = HUN}
+		visible = {original_tag = HUN}
+		complete_effect = {set_cosmetic_tag = new_HUN5}
+	}
+
+	get_new_HUN6 = {
+		icon = GFX_new_HUN6
+		allowed = {original_tag = HUN}
+		visible = {original_tag = HUN}
+		complete_effect = {set_cosmetic_tag = new_HUN6}
+	}
+
+	get_new_HUN7 = {
+		icon = GFX_new_HUN7
+		allowed = {original_tag = HUN}
+		visible = {original_tag = HUN}
+		complete_effect = {set_cosmetic_tag = new_HUN7}
+	}
+
+	get_new_HUN8 = {
+		icon = GFX_new_HUN8
+		allowed = {original_tag = HUN}
+		visible = {original_tag = HUN}
+		complete_effect = {set_cosmetic_tag = new_HUN8}
+	}
+
+	get_new_HUN9 = {
+		icon = GFX_new_HUN9
+		allowed = {original_tag = HUN}
+		visible = {original_tag = HUN}
+		complete_effect = {set_cosmetic_tag = new_HUN9}
+	}
+
+	get_new_HUN10 = {
+		icon = GFX_new_HUN10
+		allowed = {original_tag = HUN}
+		visible = {original_tag = HUN}
+		complete_effect = {set_cosmetic_tag = new_HUN10}
+	}
+
+	get_new_HUN11 = {
+		icon = GFX_new_HUN11
+		allowed = {original_tag = HUN}
+		visible = {original_tag = HUN}
+		complete_effect = {set_cosmetic_tag = new_HUN11}
+	}
+
+	get_new_HUN12 = {
+		icon = GFX_new_HUN12
+		allowed = {original_tag = HUN}
+		visible = {original_tag = HUN}
+		complete_effect = {set_cosmetic_tag = new_HUN12}
+	}
+
+	get_new_SWE1 = {
+		icon = GFX_new_SWE1
+		allowed = {original_tag = SWE}
+		visible = {original_tag = SWE}
+		complete_effect = {set_cosmetic_tag = new_SWE1}
+	}
+
+	get_new_SWE2 = {
+		icon = GFX_new_SWE2
+		allowed = {original_tag = SWE}
+		visible = {original_tag = SWE}
+		complete_effect = {set_cosmetic_tag = new_SWE2}
+	}
+
+	get_new_SWE3 = {
+		icon = GFX_new_SWE3
+		allowed = {original_tag = SWE}
+		visible = {original_tag = SWE}
+		complete_effect = {set_cosmetic_tag = new_SWE3}
+	}
+
+	get_new_SWE4 = {
+		icon = GFX_new_SWE4
+		allowed = {original_tag = SWE}
+		visible = {original_tag = SWE}
+		complete_effect = {set_cosmetic_tag = new_SWE4}
+	}
+
+	get_new_SWE5 = {
+		icon = GFX_new_SWE5
+		allowed = {original_tag = SWE}
+		visible = {original_tag = SWE}
+		complete_effect = {set_cosmetic_tag = new_SWE5}
+	}
+
+	get_new_SWE6 = {
+		icon = GFX_new_SWE6
+		allowed = {original_tag = SWE}
+		visible = {original_tag = SWE}
+		complete_effect = {set_cosmetic_tag = new_SWE6}
+	}
+
+	get_new_SWE7 = {
+		icon = GFX_new_SWE7
+		allowed = {original_tag = SWE}
+		visible = {original_tag = SWE}
+		complete_effect = {set_cosmetic_tag = new_SWE7}
+	}
+
+	get_new_SWE8 = {
+		icon = GFX_new_SWE8
+		allowed = {original_tag = SWE}
+		visible = {original_tag = SWE}
+		complete_effect = {set_cosmetic_tag = new_SWE8}
+	}
+
+	get_new_SWE9 = {
+		icon = GFX_new_SWE9
+		allowed = {original_tag = SWE}
+		visible = {original_tag = SWE}
+		complete_effect = {set_cosmetic_tag = new_SWE9}
+	}
+
+	get_new_SWE10 = {
+		icon = GFX_new_SWE10
+		allowed = {original_tag = SWE}
+		visible = {original_tag = SWE}
+		complete_effect = {set_cosmetic_tag = new_SWE10}
+	}
+
+	get_new_SWE11 = {
+		icon = GFX_new_SWE11
+		allowed = {original_tag = SWE}
+		visible = {original_tag = SWE}
+		complete_effect = {set_cosmetic_tag = new_SWE11}
+	}
+
+	get_new_USA1 = {
+		icon = GFX_new_USA1
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA1}
+	}
+
+	get_new_USA2 = {
+		icon = GFX_new_USA2
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA2}
+	}
+
+	get_new_USA3 = {
+		icon = GFX_new_USA3
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA3}
+	}
+
+	get_new_USA4 = {
+		icon = GFX_new_USA4
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA4}
+	}
+
+	get_new_USA5 = {
+		icon = GFX_new_USA5
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA5}
+	}
+
+	get_new_USA6 = {
+		icon = GFX_new_USA6
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA6}
+	}
+
+	get_new_USA7 = {
+		icon = GFX_new_USA7
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA7}
+	}
+
+	get_new_USA8 = {
+		icon = GFX_new_USA8
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA8}
+	}
+
+	get_new_USA9 = {
+		icon = GFX_new_USA9
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA9}
+	}
+
+	get_new_USA10 = {
+		icon = GFX_new_USA10
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA10}
+	}
+
+	get_new_USA11 = {
+		icon = GFX_new_USA11
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA11}
+	}
+
+	get_new_USA12 = {
+		icon = GFX_new_USA12
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA12}
+	}
+
+	get_new_USA13 = {
+		icon = GFX_new_USA13
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA13}
+	}
+
+	get_new_USA14 = {
+		icon = GFX_new_USA14
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA14}
+	}
+
+	get_new_USA15 = {
+		icon = GFX_new_USA15
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA15}
+	}
+
+	get_new_USA16 = {
+		icon = GFX_new_USA16
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA16}
+	}
+
+	get_new_USA17 = {
+		icon = GFX_new_USA17
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA17}
+	}
+
+	get_new_USA18 = {
+		icon = GFX_new_USA18
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA18}
+	}
+
+	get_new_USA19 = {
+		icon = GFX_new_USA19
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA19}
+	}
+
+	get_new_USA20 = {
+		icon = GFX_new_USA20
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA20}
+	}
+
+	get_new_USA21 = {
+		icon = GFX_new_USA21
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA21}
+	}
+
+	get_new_USA22 = {
+		icon = GFX_new_USA22
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA22}
+	}
+
+	get_new_USA23 = {
+		icon = GFX_new_USA23
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA23}
+	}
+
+	get_new_USA24 = {
+		icon = GFX_new_USA24
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA24}
+	}
+
+	get_new_USA25 = {
+		icon = GFX_new_USA25
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA25}
+	}
+
+	get_new_USA26 = {
+		icon = GFX_new_USA26
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA26}
+	}
+
+	get_new_USA27 = {
+		icon = GFX_new_USA27
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA27}
+	}
+
+	get_new_USA28 = {
+		icon = GFX_new_USA28
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA28}
+	}
+
+	get_new_USA29 = {
+		icon = GFX_new_USA29
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA29}
+	}
+
+	get_new_USA30 = {
+		icon = GFX_new_USA30
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA30}
+	}
+
+	get_new_USA31 = {
+		icon = GFX_new_USA31
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA31}
+	}
+
+	get_new_USA32 = {
+		icon = GFX_new_USA32
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA32}
+	}
+
+	get_new_USA33 = {
+		icon = GFX_new_USA33
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA33}
+	}
+
+	get_new_USA34 = {
+		icon = GFX_new_USA34
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA34}
+	}
+
+	get_new_USA35 = {
+		icon = GFX_new_USA35
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA35}
+	}
+
+	get_new_USA36 = {
+		icon = GFX_new_USA36
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA36}
+	}
+
+	get_new_USA37 = {
+		icon = GFX_new_USA37
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA37}
+	}
+
+	get_new_USA38 = {
+		icon = GFX_new_USA38
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA38}
+	}
+
+	get_new_USA39 = {
+		icon = GFX_new_USA39
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA39}
+	}
+
+	get_new_USA40 = {
+		icon = GFX_new_USA40
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA40}
+	}
+
+	get_new_USA41 = {
+		icon = GFX_new_USA41
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA41}
+	}
+
+	get_new_USA42 = {
+		icon = GFX_new_USA42
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA42}
+	}
+
+	get_new_USA43 = {
+		icon = GFX_new_USA43
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA43}
+	}
+
+	get_new_USA44 = {
+		icon = GFX_new_USA44
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA44}
+	}
+
+	get_new_USA45 = {
+		icon = GFX_new_USA45
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA45}
+	}
+
+	get_new_USA46 = {
+		icon = GFX_new_USA46
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA46}
+	}
+
+	get_new_USA47 = {
+		icon = GFX_new_USA47
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA47}
+	}
+
+	get_new_USA48 = {
+		icon = GFX_new_USA48
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA48}
+	}
+
+	get_new_USA49 = {
+		icon = GFX_new_USA49
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA49}
+	}
+
+	get_new_USA50 = {
+		icon = GFX_new_USA50
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA50}
+	}
+
+	get_new_USA51 = {
+		icon = GFX_new_USA51
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA51}
+	}
+
+	get_new_USA52 = {
+		icon = GFX_new_USA52
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA52}
+	}
+	
+	get_new_USA53 = {
+		icon = GFX_new_USA53
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA53}
+	}
+
+	get_new_USA54 = {
+		icon = GFX_new_USA54
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA54}
+	}
+
+	get_new_USA55 = {
+		icon = GFX_new_USA55
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA55}
+	}
+
+	get_new_USA56 = {
+		icon = GFX_new_USA56
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA56}
+	}
+
+	get_new_USA57 = {
+		icon = GFX_new_USA57
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA57}
+	}
+	
+	get_new_USA58 = {
+		icon = GFX_new_USA58
+		allowed = {original_tag = USA}
+		visible = {original_tag = USA}
+		complete_effect = {set_cosmetic_tag = new_USA58}
+	}
+
+	get_new_AST1 = {
+		icon = GFX_new_AST1
+		allowed = {original_tag = AST}
+		visible = {original_tag = AST}
+		complete_effect = {set_cosmetic_tag = new_AST1}
+	}
+
+	get_new_AST2 = {
+		icon = GFX_new_AST2
+		allowed = {original_tag = AST}
+		visible = {original_tag = AST}
+		complete_effect = {set_cosmetic_tag = new_AST2}
+	}
+
+	get_new_AST3 = {
+		icon = GFX_new_AST3
+		allowed = {original_tag = AST}
+		visible = {original_tag = AST}
+		complete_effect = {set_cosmetic_tag = new_AST3}
+	}
+
+	get_new_AST4 = {
+		icon = GFX_new_AST4
+		allowed = {original_tag = AST}
+		visible = {original_tag = AST}
+		complete_effect = {set_cosmetic_tag = new_AST4}
+	}
+
+	get_new_AST5 = {
+		icon = GFX_new_AST5
+		allowed = {original_tag = AST}
+		visible = {original_tag = AST}
+		complete_effect = {set_cosmetic_tag = new_AST5}
+	}
+
+	get_new_AST6 = {
+		icon = GFX_new_AST6
+		allowed = {original_tag = AST}
+		visible = {original_tag = AST}
+		complete_effect = {set_cosmetic_tag = new_AST6}
+	}
+
+	get_new_AST7 = {
+		icon = GFX_new_AST7
+		allowed = {original_tag = AST}
+		visible = {original_tag = AST}
+		complete_effect = {set_cosmetic_tag = new_AST7}
+	}
+
+	get_new_AST8 = {
+		icon = GFX_new_AST8
+		allowed = {original_tag = AST}
+		visible = {original_tag = AST}
+		complete_effect = {set_cosmetic_tag = new_AST8}
+	}
+
+	get_new_AST9 = {
+		icon = GFX_new_AST9
+		allowed = {original_tag = AST}
+		visible = {original_tag = AST}
+		complete_effect = {set_cosmetic_tag = new_AST9}
+	}
+
+	get_new_AST10 = {
+		icon = GFX_new_AST10
+		allowed = {original_tag = AST}
+		visible = {original_tag = AST}
+		complete_effect = {set_cosmetic_tag = new_AST10}
+	}
+
+	get_new_AST11 = {
+		icon = GFX_new_AST11
+		allowed = {original_tag = AST}
+		visible = {original_tag = AST}
+		complete_effect = {set_cosmetic_tag = new_AST11}
+	}
+
+	get_new_AST12 = {
+		icon = GFX_new_AST12
+		allowed = {original_tag = AST}
+		visible = {original_tag = AST}
+		complete_effect = {set_cosmetic_tag = new_AST12}
+	}
+
+	get_new_HOL1 = {
+		icon = GFX_new_HOL1
+		allowed = {original_tag = HOL}
+		visible = {original_tag = HOL}
+		complete_effect = {set_cosmetic_tag = new_HOL1}
+	}
+
+	get_new_HOL2 = {
+		icon = GFX_new_HOL2
+		allowed = {original_tag = HOL}
+		visible = {original_tag = HOL}
+		complete_effect = {set_cosmetic_tag = new_HOL2}
+	}
+
+	get_new_HOL3 = {
+		icon = GFX_new_HOL3
+		allowed = {original_tag = HOL}
+		visible = {original_tag = HOL}
+		complete_effect = {set_cosmetic_tag = new_HOL3}
+	}
+
+	get_new_HOL4 = {
+		icon = GFX_new_HOL4
+		allowed = {original_tag = HOL}
+		visible = {original_tag = HOL}
+		complete_effect = {set_cosmetic_tag = new_HOL4}
+	}
+
+	get_new_HOL5 = {
+		icon = GFX_new_HOL5
+		allowed = {original_tag = HOL}
+		visible = {original_tag = HOL}
+		complete_effect = {set_cosmetic_tag = new_HOL5}
+	}
+
+	get_new_HOL6 = {
+		icon = GFX_new_HOL6
+		allowed = {original_tag = HOL}
+		visible = {original_tag = HOL}
+		complete_effect = {set_cosmetic_tag = new_HOL6}
+	}
+
+	get_new_HOL7 = {
+		icon = GFX_new_HOL7
+		allowed = {original_tag = HOL}
+		visible = {original_tag = HOL}
+		complete_effect = {set_cosmetic_tag = new_HOL7}
+	}
+
+	get_new_HOL8 = {
+		icon = GFX_new_HOL8
+		allowed = {original_tag = HOL}
+		visible = {original_tag = HOL}
+		complete_effect = {set_cosmetic_tag = new_HOL8}
+	}
+
+	get_new_SWI1 = {
+		icon = GFX_new_SWI1
+		allowed = {original_tag = SWI}
+		visible = {original_tag = SWI}
+		complete_effect = {set_cosmetic_tag = new_SWI1}
+	}
+
+	get_new_SWI2 = {
+		icon = GFX_new_SWI2
+		allowed = {original_tag = SWI}
+		visible = {original_tag = SWI}
+		complete_effect = {set_cosmetic_tag = new_SWI2}
+	}
+
+	get_new_SWI3 = {
+		icon = GFX_new_SWI3
+		allowed = {original_tag = SWI}
+		visible = {original_tag = SWI}
+		complete_effect = {set_cosmetic_tag = new_SWI3}
+	}
+
+	get_new_SWI4 = {
+		icon = GFX_new_SWI4
+		allowed = {original_tag = SWI}
+		visible = {original_tag = SWI}
+		complete_effect = {set_cosmetic_tag = new_SWI4}
+	}
+
+	get_new_SWI5 = {
+		icon = GFX_new_SWI5
+		allowed = {original_tag = SWI}
+		visible = {original_tag = SWI}
+		complete_effect = {set_cosmetic_tag = new_SWI5}
+	}
+
+	get_new_SWI6 = {
+		icon = GFX_new_SWI6
+		allowed = {original_tag = SWI}
+		visible = {original_tag = SWI}
+		complete_effect = {set_cosmetic_tag = new_SWI6}
+	}
+
+	get_new_SWI7 = {
+		icon = GFX_new_SWI7
+		allowed = {original_tag = SWI}
+		visible = {original_tag = SWI}
+		complete_effect = {set_cosmetic_tag = new_SWI7}
+	}
+
+	get_new_SWI8 = {
+		icon = GFX_new_SWI8
+		allowed = {original_tag = SWI}
+		visible = {original_tag = SWI}
+		complete_effect = {set_cosmetic_tag = new_SWI8}
+	}
+
+	get_new_SWI9 = {
+		icon = GFX_new_SWI9
+		allowed = {original_tag = SWI}
+		visible = {original_tag = SWI}
+		complete_effect = {set_cosmetic_tag = new_SWI9}
+	}
+
+	get_new_EST1 = {
+		icon = GFX_new_EST1
+		allowed = {original_tag = EST}
+		visible = {original_tag = EST}
+		complete_effect = {set_cosmetic_tag = new_EST1}
+	}
+
+	get_new_EST2 = {
+		icon = GFX_new_EST2
+		allowed = {original_tag = EST}
+		visible = {original_tag = EST}
+		complete_effect = {set_cosmetic_tag = new_EST2}
+	}
+
+	get_new_EST3 = {
+		icon = GFX_new_EST3
+		allowed = {original_tag = EST}
+		visible = {original_tag = EST}
+		complete_effect = {set_cosmetic_tag = new_EST3}
+	}
+
+	get_new_EST4 = {
+		icon = GFX_new_EST4
+		allowed = {original_tag = EST}
+		visible = {original_tag = EST}
+		complete_effect = {set_cosmetic_tag = new_EST4}
+	}
+
+	get_new_EST5 = {
+		icon = GFX_new_EST5
+		allowed = {original_tag = EST}
+		visible = {original_tag = EST}
+		complete_effect = {set_cosmetic_tag = new_EST5}
+	}
+
+	get_new_EST6 = {
+		icon = GFX_new_EST6
+		allowed = {original_tag = EST}
+		visible = {original_tag = EST}
+		complete_effect = {set_cosmetic_tag = new_EST6}
+	}
+
+	get_new_EST7 = {
+		icon = GFX_new_EST7
+		allowed = {original_tag = EST}
+		visible = {original_tag = EST}
+		complete_effect = {set_cosmetic_tag = new_EST7}
+	}
+
+	get_new_EST8 = {
+		icon = GFX_new_EST8
+		allowed = {original_tag = EST}
+		visible = {original_tag = EST}
+		complete_effect = {set_cosmetic_tag = new_EST8}
+	}
+
+	get_new_BOS1 = {
+		icon = GFX_new_BOS1
+		allowed = {original_tag = BOS}
+		visible = {original_tag = BOS}
+		complete_effect = {set_cosmetic_tag = new_BOS1}
+	}
+
+	get_new_BOS2 = {
+		icon = GFX_new_BOS2
+		allowed = {original_tag = BOS}
+		visible = {original_tag = BOS}
+		complete_effect = {set_cosmetic_tag = new_BOS2}
+	}
+
+	get_new_BOS3 = {
+		icon = GFX_new_BOS3
+		allowed = {original_tag = BOS}
+		visible = {original_tag = BOS}
+		complete_effect = {set_cosmetic_tag = new_BOS3}
+	}
+
+	get_new_BOS4 = {
+		icon = GFX_new_BOS4
+		allowed = {original_tag = BOS}
+		visible = {original_tag = BOS}
+		complete_effect = {set_cosmetic_tag = new_BOS4}
+	}
+
+	get_new_BEL1 = {
+		icon = GFX_new_BEL1
+		allowed = {original_tag = BEL}
+		visible = {original_tag = BEL}
+		complete_effect = {set_cosmetic_tag = new_BEL1}
+	}
+
+	get_new_BEL2 = {
+		icon = GFX_new_BEL2
+		allowed = {original_tag = BEL}
+		visible = {original_tag = BEL}
+		complete_effect = {set_cosmetic_tag = new_BEL2}
+	}
+
+	get_new_FIN1 = {
+		icon = GFX_new_FIN1
+		allowed = {original_tag = FIN}
+		visible = {original_tag = FIN}
+		complete_effect = {set_cosmetic_tag = new_FIN1}
+	}
+
+	get_new_FIN2 = {
+		icon = GFX_new_FIN2
+		allowed = {original_tag = FIN}
+		visible = {original_tag = FIN}
+		complete_effect = {set_cosmetic_tag = new_FIN2}
+	}
+
+	get_new_FIN3 = {
+		icon = GFX_new_FIN3
+		allowed = {original_tag = FIN}
+		visible = {original_tag = FIN}
+		complete_effect = {set_cosmetic_tag = new_FIN3}
+	}
+
+	get_new_FIN4 = {
+		icon = GFX_new_FIN4
+		allowed = {original_tag = FIN}
+		visible = {original_tag = FIN}
+		complete_effect = {set_cosmetic_tag = new_FIN4}
+	}
+
+	get_new_FIN5 = {
+		icon = GFX_new_FIN5
+		allowed = {original_tag = FIN}
+		visible = {original_tag = FIN}
+		complete_effect = {set_cosmetic_tag = new_FIN5}
+	}
+
+	get_new_FIN6 = {
+		icon = GFX_new_FIN6
+		allowed = {original_tag = FIN}
+		visible = {original_tag = FIN}
+		complete_effect = {set_cosmetic_tag = new_FIN6}
+	}
+
+	get_new_FIN7 = {
+		icon = GFX_new_FIN7
+		allowed = {original_tag = FIN}
+		visible = {original_tag = FIN}
+		complete_effect = {set_cosmetic_tag = new_FIN7}
+	}
+
+	get_new_FIN8 = {
+		icon = GFX_new_FIN8
+		allowed = {original_tag = FIN}
+		visible = {original_tag = FIN}
+		complete_effect = {set_cosmetic_tag = new_FIN8}
+	}
+
+	get_new_POL1 = {
+		icon = GFX_new_POL1
+		allowed = {original_tag = POL}
+		visible = {original_tag = POL}
+		complete_effect = {set_cosmetic_tag = new_POL1}
+	}
+
+	get_new_POL2 = {
+		icon = GFX_new_POL2
+		allowed = {original_tag = POL}
+		visible = {original_tag = POL}
+		complete_effect = {set_cosmetic_tag = new_POL2}
+	}
+
+	get_new_POL3 = {
+		icon = GFX_new_POL3
+		allowed = {original_tag = POL}
+		visible = {original_tag = POL}
+		complete_effect = {set_cosmetic_tag = new_POL3}
+	}
+
+	get_new_POL4 = {
+		icon = GFX_new_POL4
+		allowed = {original_tag = POL}
+		visible = {original_tag = POL}
+		complete_effect = {set_cosmetic_tag = new_POL4}
+	}
+
+	get_new_POL5 = {
+		icon = GFX_new_POL5
+		allowed = {original_tag = POL}
+		visible = {original_tag = POL}
+		complete_effect = {set_cosmetic_tag = new_POL5}
+	}
+
+	get_new_POL6 = {
+		icon = GFX_new_POL6
+		allowed = {original_tag = POL}
+		visible = {original_tag = POL}
+		complete_effect = {set_cosmetic_tag = new_POL6}
+	}
+
+	get_new_POL7 = {
+		icon = GFX_new_POL7
+		allowed = {original_tag = POL}
+		visible = {original_tag = POL}
+		complete_effect = {set_cosmetic_tag = new_POL7}
+	}
+
+	get_new_POL8 = {
+		icon = GFX_new_POL8
+		allowed = {original_tag = POL}
+		visible = {original_tag = POL}
+		complete_effect = {set_cosmetic_tag = new_POL8}
+	}
+
+	get_new_POL9 = {
+		icon = GFX_new_POL9
+		allowed = {original_tag = POL}
+		visible = {original_tag = POL}
+		complete_effect = {set_cosmetic_tag = new_POL9}
+	}
+
+	get_new_POL10 = {
+		icon = GFX_new_POL10
+		allowed = {original_tag = POL}
+		visible = {original_tag = POL}
+		complete_effect = {set_cosmetic_tag = new_POL10}
+	}
+
+	get_new_POL11 = {
+		icon = GFX_new_POL11
+		allowed = {original_tag = POL}
+		visible = {original_tag = POL}
+		complete_effect = {set_cosmetic_tag = new_POL11}
+	}
+
+	get_new_DEN1 = {
+		icon = GFX_new_DEN1
+		allowed = {original_tag = DEN}
+		visible = {original_tag = DEN}
+		complete_effect = {set_cosmetic_tag = new_DEN1}
+	}
+
+	get_new_DEN2 = {
+		icon = GFX_new_DEN2
+		allowed = {original_tag = DEN}
+		visible = {original_tag = DEN}
+		complete_effect = {set_cosmetic_tag = new_DEN2}
+	}
+
+	get_new_DEN3 = {
+		icon = GFX_new_DEN3
+		allowed = {original_tag = DEN}
+		visible = {original_tag = DEN}
+		complete_effect = {set_cosmetic_tag = new_DEN3}
+	}
+
+	get_new_DEN4 = {
+		icon = GFX_new_DEN4
+		allowed = {original_tag = DEN}
+		visible = {original_tag = DEN}
+		complete_effect = {set_cosmetic_tag = new_DEN4}
+	}
+
+	get_new_LUX1 = {
+		icon = GFX_new_LUX1
+		allowed = {original_tag = LUX}
+		visible = {original_tag = LUX}
+		complete_effect = {set_cosmetic_tag = new_LUX1}
+	}
+
+	get_new_CZE1 = {
+		icon = GFX_new_CZE1
+		allowed = {original_tag = CZE}
+		visible = {original_tag = CZE}
+		complete_effect = {set_cosmetic_tag = new_CZE1}
+	}
+
+	get_new_CZE2 = {
+		icon = GFX_new_CZE2
+		allowed = {original_tag = CZE}
+		visible = {original_tag = CZE}
+		complete_effect = {set_cosmetic_tag = new_CZE2}
+	}
+
+	get_new_CZE3 = {
+		icon = GFX_new_CZE3
+		allowed = {original_tag = CZE}
+		visible = {original_tag = CZE}
+		complete_effect = {set_cosmetic_tag = new_CZE3}
+	}
+
+	get_new_CZE4 = {
+		icon = GFX_new_CZE4
+		allowed = {original_tag = CZE}
+		visible = {original_tag = CZE}
+		complete_effect = {set_cosmetic_tag = new_CZE4}
+	}
+
+	get_new_CZE5 = {
+		icon = GFX_new_CZE5
+		allowed = {original_tag = CZE}
+		visible = {original_tag = CZE}
+		complete_effect = {set_cosmetic_tag = new_CZE5}
+	}
+
+	get_new_CZE6 = {
+		icon = GFX_new_CZE6
+		allowed = {original_tag = CZE}
+		visible = {original_tag = CZE}
+		complete_effect = {set_cosmetic_tag = new_CZE6}
+	}
+
+	get_new_CZE7 = {
+		icon = GFX_new_CZE7
+		allowed = {original_tag = CZE}
+		visible = {original_tag = CZE}
+		complete_effect = {set_cosmetic_tag = new_CZE7}
+	}
+
+	get_new_TUR1 = {
+		icon = GFX_new_TUR1
+		allowed = {original_tag = TUR}
+		visible = {original_tag = TUR}
+		complete_effect = {set_cosmetic_tag = new_TUR1}
+	}
+
+	get_new_TUR2 = {
+		icon = GFX_new_TUR2
+		allowed = {original_tag = TUR}
+		visible = {original_tag = TUR}
+		complete_effect = {set_cosmetic_tag = new_TUR2}
+	}
+
+	get_new_TUR3 = {
+		icon = GFX_new_TUR3
+		allowed = {original_tag = TUR}
+		visible = {original_tag = TUR}
+		complete_effect = {set_cosmetic_tag = new_TUR3}
+	}
+
+	get_new_TUR4 = {
+		icon = GFX_new_TUR4
+		allowed = {original_tag = TUR}
+		visible = {original_tag = TUR}
+		complete_effect = {set_cosmetic_tag = new_TUR4}
+	}
+
+	get_new_TUR5 = {
+		icon = GFX_new_TUR5
+		allowed = {original_tag = TUR}
+		visible = {original_tag = TUR}
+		complete_effect = {set_cosmetic_tag = new_TUR5}
+	}
+
+	get_new_TUR6 = {
+		icon = GFX_new_TUR6
+		allowed = {original_tag = TUR}
+		visible = {original_tag = TUR}
+		complete_effect = {set_cosmetic_tag = new_TUR6}
+	}
+
+	get_new_TUR7 = {
+		icon = GFX_new_TUR7
+		allowed = {original_tag = TUR}
+		visible = {original_tag = TUR}
+		complete_effect = {set_cosmetic_tag = new_TUR7}
+	}
+
+	get_new_TUR8 = {
+		icon = GFX_new_TUR8
+		allowed = {original_tag = TUR}
+		visible = {original_tag = TUR}
+		complete_effect = {set_cosmetic_tag = new_TUR8}
+	}
+
+	get_new_TUR9 = {
+		icon = GFX_new_TUR9
+		allowed = {original_tag = TUR}
+		visible = {original_tag = TUR}
+		complete_effect = {set_cosmetic_tag = new_TUR9}
+	}
+
+	get_new_TUR10 = {
+		icon = GFX_new_TUR10
+		allowed = {original_tag = TUR}
+		visible = {original_tag = TUR}
+		complete_effect = {set_cosmetic_tag = new_TUR10}
+	}
+
+	get_new_TUR11 = {
+		icon = GFX_new_TUR11
+		allowed = {original_tag = TUR}
+		visible = {original_tag = TUR}
+		complete_effect = {set_cosmetic_tag = new_TUR11}
+	}
+
+	get_new_TUR12 = {
+		icon = GFX_new_TUR12
+		allowed = {original_tag = TUR}
+		visible = {original_tag = TUR}
+		complete_effect = {set_cosmetic_tag = new_TUR12}
+	}
+
+	get_new_TUR13 = {
+		icon = GFX_new_TUR13
+		allowed = {original_tag = TUR}
+		visible = {original_tag = TUR}
+		complete_effect = {set_cosmetic_tag = new_TUR13}
+	}
+
+	get_new_TUR14 = {
+		icon = GFX_new_TUR14
+		allowed = {original_tag = TUR}
+		visible = {original_tag = TUR}
+		complete_effect = {set_cosmetic_tag = new_TUR14}
+	}
+
+	get_new_TUR15 = {
+		icon = GFX_new_TUR15
+		allowed = {original_tag = TUR}
+		visible = {original_tag = TUR}
+		complete_effect = {set_cosmetic_tag = new_TUR15}
+	}
+
+	get_new_TUR16 = {
+		icon = GFX_new_TUR16
+		allowed = {original_tag = TUR}
+		visible = {original_tag = TUR}
+		complete_effect = {set_cosmetic_tag = new_TUR16}
+	}
+
+	get_new_TUR17 = {
+		icon = GFX_new_TUR17
+		allowed = {original_tag = TUR}
+		visible = {original_tag = TUR}
+		complete_effect = {set_cosmetic_tag = new_TUR17}
+	}
+
+	get_new_BRA1 = {
+		icon = GFX_new_BRA1
+		allowed = {original_tag = BRA}
+		visible = {original_tag = BRA}
+		complete_effect = {set_cosmetic_tag = new_BRA1}
+	}
+
+	get_new_BRA2 = {
+		icon = GFX_new_BRA2
+		allowed = {original_tag = BRA}
+		visible = {original_tag = BRA}
+		complete_effect = {set_cosmetic_tag = new_BRA2}
+	}
+
+	get_new_BRA3 = {
+		icon = GFX_new_BRA3
+		allowed = {original_tag = BRA}
+		visible = {original_tag = BRA}
+		complete_effect = {set_cosmetic_tag = new_BRA3}
+	}
+
+	get_new_BRA4 = {
+		icon = GFX_new_BRA4
+		allowed = {original_tag = BRA}
+		visible = {original_tag = BRA}
+		complete_effect = {set_cosmetic_tag = new_BRA4}
+	}
+
+	get_new_BRA5 = {
+		icon = GFX_new_BRA5
+		allowed = {original_tag = BRA}
+		visible = {original_tag = BRA}
+		complete_effect = {set_cosmetic_tag = new_BRA5}
+	}
+
+	get_new_BRA6 = {
+		icon = GFX_new_BRA6
+		allowed = {original_tag = BRA}
+		visible = {original_tag = BRA}
+		complete_effect = {set_cosmetic_tag = new_BRA6}
+	}
+
+	get_new_BRA7 = {
+		icon = GFX_new_BRA7
+		allowed = {original_tag = BRA}
+		visible = {original_tag = BRA}
+		complete_effect = {set_cosmetic_tag = new_BRA7}
+	}
+
+	get_new_BRA8 = {
+		icon = GFX_new_BRA8
+		allowed = {original_tag = BRA}
+		visible = {original_tag = BRA}
+		complete_effect = {set_cosmetic_tag = new_BRA8}
+	}
+
+	get_new_BRA9 = {
+		icon = GFX_new_BRA9
+		allowed = {original_tag = BRA}
+		visible = {original_tag = BRA}
+		complete_effect = {set_cosmetic_tag = new_BRA9}
+	}
+
+	get_new_NOR1 = {
+		icon = GFX_new_NOR1
+		allowed = {original_tag = NOR}
+		visible = {original_tag = NOR}
+		complete_effect = {set_cosmetic_tag = new_NOR1}
+	}
+
+	get_new_NOR2 = {
+		icon = GFX_new_NOR2
+		allowed = {original_tag = NOR}
+		visible = {original_tag = NOR}
+		complete_effect = {set_cosmetic_tag = new_NOR2}
+	}
+
+	get_new_NOR3 = {
+		icon = GFX_new_NOR3
+		allowed = {original_tag = NOR}
+		visible = {original_tag = NOR}
+		complete_effect = {set_cosmetic_tag = new_NOR3}
+	}
+
+	get_new_NOR4 = {
+		icon = GFX_new_NOR4
+		allowed = {original_tag = NOR}
+		visible = {original_tag = NOR}
+		complete_effect = {set_cosmetic_tag = new_NOR4}
+	}
+
+	get_new_NOR5 = {
+		icon = GFX_new_NOR5
+		allowed = {original_tag = NOR}
+		visible = {original_tag = NOR}
+		complete_effect = {set_cosmetic_tag = new_NOR5}
+	}
+
+	get_new_NOR6 = {
+		icon = GFX_new_NOR6
+		allowed = {original_tag = NOR}
+		visible = {original_tag = NOR}
+		complete_effect = {set_cosmetic_tag = new_NOR6}
+	}
+	
+	get_new_NOR7 = {
+		icon = GFX_new_NOR7
+		allowed = {original_tag = NOR}
+		visible = {original_tag = NOR}
+		complete_effect = {set_cosmetic_tag = new_NOR7}
+	}
+
+	get_new_ROM1 = {
+		icon = GFX_new_ROM1
+		allowed = {original_tag = ROM}
+		visible = {original_tag = ROM}
+		complete_effect = {set_cosmetic_tag = new_ROM1}
+	}
+
+	get_new_ROM2 = {
+		icon = GFX_new_ROM2
+		allowed = {original_tag = ROM}
+		visible = {original_tag = ROM}
+		complete_effect = {set_cosmetic_tag = new_ROM2}
+	}
+
+	get_new_ROM3 = {
+		icon = GFX_new_ROM3
+		allowed = {original_tag = ROM}
+		visible = {original_tag = ROM}
+		complete_effect = {set_cosmetic_tag = new_ROM3}
+	}
+
+	get_new_ROM4 = {
+		icon = GFX_new_ROM4
+		allowed = {original_tag = ROM}
+		visible = {original_tag = ROM}
+		complete_effect = {set_cosmetic_tag = new_ROM4}
+	}
+
+	get_new_ROM5 = {
+		icon = GFX_new_ROM5
+		allowed = {original_tag = ROM}
+		visible = {original_tag = ROM}
+		complete_effect = {set_cosmetic_tag = new_ROM5}
+	}
+
+	get_new_ROM6 = {
+		icon = GFX_new_ROM6
+		allowed = {original_tag = ROM}
+		visible = {original_tag = ROM}
+		complete_effect = {set_cosmetic_tag = new_ROM6}
+	}
+
+	get_new_ROM7 = {
+		icon = GFX_new_ROM7
+		allowed = {original_tag = ROM}
+		visible = {original_tag = ROM}
+		complete_effect = {set_cosmetic_tag = new_ROM7}
+	}
+
+	get_new_ROM8 = {
+		icon = GFX_new_ROM8
+		allowed = {original_tag = ROM}
+		visible = {original_tag = ROM}
+		complete_effect = {set_cosmetic_tag = new_ROM8}
+	}
+
+	get_new_ROM9 = {
+		icon = GFX_new_ROM9
+		allowed = {original_tag = ROM}
+		visible = {original_tag = ROM}
+		complete_effect = {set_cosmetic_tag = new_ROM9}
+	}
+
+	get_new_CAN1 = {
+		icon = GFX_new_CAN1
+		allowed = {original_tag = CAN}
+		visible = {original_tag = CAN}
+		complete_effect = {set_cosmetic_tag = new_CAN1}
+	}
+
+	get_new_CAN2 = {
+		icon = GFX_new_CAN2
+		allowed = {original_tag = CAN}
+		visible = {original_tag = CAN}
+		complete_effect = {set_cosmetic_tag = new_CAN2}
+	}
+
+	get_new_CAN3 = {
+		icon = GFX_new_CAN3
+		allowed = {original_tag = CAN}
+		visible = {original_tag = CAN}
+		complete_effect = {set_cosmetic_tag = new_CAN3}
+	}
+
+	get_new_CAN4 = {
+		icon = GFX_new_CAN4
+		allowed = {original_tag = CAN}
+		visible = {original_tag = CAN}
+		complete_effect = {set_cosmetic_tag = new_CAN4}
+	}
+
+	get_new_CAN5 = {
+		icon = GFX_new_CAN5
+		allowed = {original_tag = CAN}
+		visible = {original_tag = CAN}
+		complete_effect = {set_cosmetic_tag = new_CAN5}
+	}
+
+	get_new_CAN6 = {
+		icon = GFX_new_CAN6
+		allowed = {original_tag = CAN}
+		visible = {original_tag = CAN}
+		complete_effect = {set_cosmetic_tag = new_CAN6}
+	}
+
+	get_new_CAN7 = {
+		icon = GFX_new_CAN7
+		allowed = {original_tag = CAN}
+		visible = {original_tag = CAN}
+		complete_effect = {set_cosmetic_tag = new_CAN7}
+	}
+
+	get_new_POR1 = {
+		icon = GFX_new_POR1
+		allowed = {original_tag = POR}
+		visible = {original_tag = POR}
+		complete_effect = {set_cosmetic_tag = new_POR1}
+	}
+
+	get_new_POR2 = {
+		icon = GFX_new_POR2
+		allowed = {original_tag = POR}
+		visible = {original_tag = POR}
+		complete_effect = {set_cosmetic_tag = new_POR2}
+	}
+
+	get_new_POR3 = {
+		icon = GFX_new_POR3
+		allowed = {original_tag = POR}
+		visible = {original_tag = POR}
+		complete_effect = {set_cosmetic_tag = new_POR3}
+	}
+
+	get_new_POR4 = {
+		icon = GFX_new_POR4
+		allowed = {original_tag = POR}
+		visible = {original_tag = POR}
+		complete_effect = {set_cosmetic_tag = new_POR4}
+	}
+
+	get_new_POR5 = {
+		icon = GFX_new_POR5
+		allowed = {original_tag = POR}
+		visible = {original_tag = POR}
+		complete_effect = {set_cosmetic_tag = new_POR5}
+	}
+
+	get_new_FRA1 = {
+		icon = GFX_new_FRA1
+		allowed = {original_tag = FRA}
+		visible = {original_tag = FRA}
+		complete_effect = {set_cosmetic_tag = new_FRA1}
+	}
+
+	get_new_FRA2 = {
+		icon = GFX_new_FRA2
+		allowed = {original_tag = FRA}
+		visible = {original_tag = FRA}
+		complete_effect = {set_cosmetic_tag = new_FRA2}
+	}
+
+	get_new_FRA3 = {
+		icon = GFX_new_FRA3
+		allowed = {original_tag = FRA}
+		visible = {original_tag = FRA}
+		complete_effect = {set_cosmetic_tag = new_FRA3}
+	}
+
+	get_new_FRA4 = {
+		icon = GFX_new_FRA4
+		allowed = {original_tag = FRA}
+		visible = {original_tag = FRA}
+		complete_effect = {set_cosmetic_tag = new_FRA4}
+	}
+
+	get_new_FRA5 = {
+		icon = GFX_new_FRA5
+		allowed = {original_tag = FRA}
+		visible = {original_tag = FRA}
+		complete_effect = {set_cosmetic_tag = new_FRA5}
+	}
+
+	get_new_FRA6 = {
+		icon = GFX_new_FRA6
+		allowed = {original_tag = FRA}
+		visible = {original_tag = FRA}
+		complete_effect = {set_cosmetic_tag = new_FRA6}
+	}
+
+	get_new_FRA7 = {
+		icon = GFX_new_FRA7
+		allowed = {original_tag = FRA}
+		visible = {original_tag = FRA}
+		complete_effect = {set_cosmetic_tag = new_FRA7}
+	}
+
+	get_new_FRA8 = {
+		icon = GFX_new_FRA8
+		allowed = {original_tag = FRA}
+		visible = {original_tag = FRA}
+		complete_effect = {set_cosmetic_tag = new_FRA8}
+	}
+
+	get_new_FRA9 = {
+		icon = GFX_new_FRA9
+		allowed = {original_tag = FRA}
+		visible = {original_tag = FRA}
+		complete_effect = {set_cosmetic_tag = new_FRA9}
+	}
+
+	get_new_FRA10 = {
+		icon = GFX_new_FRA10
+		allowed = {original_tag = FRA}
+		visible = {original_tag = FRA}
+		complete_effect = {set_cosmetic_tag = new_FRA10}
+	}
+
+	get_new_FRA11 = {
+		icon = GFX_new_FRA11
+		allowed = {original_tag = FRA}
+		visible = {original_tag = FRA}
+		complete_effect = {set_cosmetic_tag = new_FRA11}
+	}
+
+	get_new_FRA12 = {
+		icon = GFX_new_FRA12
+		allowed = {original_tag = FRA}
+		visible = {original_tag = FRA}
+		complete_effect = {set_cosmetic_tag = new_FRA12}
+	}
+
+	get_new_FRA13 = {
+		icon = GFX_new_FRA13
+		allowed = {original_tag = FRA}
+		visible = {original_tag = FRA}
+		complete_effect = {set_cosmetic_tag = new_FRA13}
+	}
+
+	get_new_FRA14 = {
+		icon = GFX_new_FRA14
+		allowed = {original_tag = FRA}
+		visible = {original_tag = FRA}
+		complete_effect = {set_cosmetic_tag = new_FRA14}
+	}
+
+	get_new_FRA15 = {
+		icon = GFX_new_FRA15
+		allowed = {original_tag = FRA}
+		visible = {original_tag = FRA}
+		complete_effect = {set_cosmetic_tag = new_FRA15}
+	}
+
+	get_new_FRA16 = {
+		icon = GFX_new_FRA16
+		allowed = {original_tag = FRA}
+		visible = {original_tag = FRA}
+		complete_effect = {set_cosmetic_tag = new_FRA16}
+	}
+
+	get_new_FRA17 = {
+		icon = GFX_new_FRA17
+		allowed = {original_tag = FRA}
+		visible = {original_tag = FRA}
+		complete_effect = {set_cosmetic_tag = new_FRA17}
+	}
+
+	get_new_FRA18 = {
+		icon = GFX_new_FRA18
+		allowed = {original_tag = FRA}
+		visible = {original_tag = FRA}
+		complete_effect = {set_cosmetic_tag = new_FRA18}
+	}
+
+	get_new_FRA19 = {
+		icon = GFX_new_FRA19
+		allowed = {original_tag = FRA}
+		visible = {original_tag = FRA}
+		complete_effect = {set_cosmetic_tag = new_FRA19}
+	}
+
+	get_new_FRA20 = {
+		icon = GFX_new_FRA20
+		allowed = {original_tag = FRA}
+		visible = {original_tag = FRA}
+		complete_effect = {set_cosmetic_tag = new_FRA20}
+	}
+
+	get_new_FRA21 = {
+		icon = GFX_new_FRA21
+		allowed = {original_tag = FRA}
+		visible = {original_tag = FRA}
+		complete_effect = {set_cosmetic_tag = new_FRA21}
+	}
+
+	get_new_FRA22 = {
+		icon = GFX_new_FRA22
+		allowed = {original_tag = FRA}
+		visible = {original_tag = FRA}
+		complete_effect = {set_cosmetic_tag = new_FRA22}
+	}
+
+	get_new_FRA23 = {
+		icon = GFX_new_FRA23
+		allowed = {original_tag = FRA}
+		visible = {original_tag = FRA}
+		complete_effect = {set_cosmetic_tag = new_FRA23}
+	}
+
+	get_new_FRA24 = {
+		icon = GFX_new_FRA24
+		allowed = {original_tag = FRA}
+		visible = {original_tag = FRA}
+		complete_effect = {set_cosmetic_tag = new_FRA24}
+	}
+
+	get_new_FRA25 = {
+		icon = GFX_new_FRA25
+		allowed = {original_tag = FRA}
+		visible = {original_tag = FRA}
+		complete_effect = {set_cosmetic_tag = new_FRA25}
+	}
+
+	get_new_FRA26 = {
+		icon = GFX_new_FRA26
+		allowed = {original_tag = FRA}
+		visible = {original_tag = FRA}
+		complete_effect = {set_cosmetic_tag = new_FRA26}
+	}
+
+	get_new_FRA27 = {
+		icon = GFX_new_FRA27
+		allowed = {original_tag = FRA}
+		visible = {original_tag = FRA}
+		complete_effect = {set_cosmetic_tag = new_FRA27}
+	}
+
+	get_new_FRA28 = {
+		icon = GFX_new_FRA28
+		allowed = {original_tag = FRA}
+		visible = {original_tag = FRA}
+		complete_effect = {set_cosmetic_tag = new_FRA28}
+	}
+
+	get_new_FRA29 = {
+		icon = GFX_new_FRA29
+		allowed = {original_tag = FRA}
+		visible = {original_tag = FRA}
+		complete_effect = {set_cosmetic_tag = new_FRA29}
+	}
+
+	get_new_FRA30 = {
+		icon = GFX_new_FRA30
+		allowed = {original_tag = FRA}
+		visible = {original_tag = FRA}
+		complete_effect = {set_cosmetic_tag = new_FRA30}
+	}
+
+	get_new_FRA31 = {
+		icon = GFX_new_FRA31
+		allowed = {original_tag = FRA}
+		visible = {original_tag = FRA}
+		complete_effect = {set_cosmetic_tag = new_FRA31}
+	}
+
+	get_new_FRA32 = {
+		icon = GFX_new_FRA32
+		allowed = {original_tag = FRA}
+		visible = {original_tag = FRA}
+		complete_effect = {set_cosmetic_tag = new_FRA32}
+	}
+
+	get_new_FRA33 = {
+		icon = GFX_new_FRA33
+		allowed = {original_tag = FRA}
+		visible = {original_tag = FRA}
+		complete_effect = {set_cosmetic_tag = new_FRA33}
+	}
+
+	get_new_GER1 = {
+		icon = GFX_new_GER1
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER1}
+	}
+
+	get_new_GER2 = {
+		icon = GFX_new_GER2
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER2}
+	}
+
+	get_new_GER3 = {
+		icon = GFX_new_GER3
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER3}
+	}
+
+	get_new_GER4 = {
+		icon = GFX_new_GER4
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER4}
+	}
+
+	get_new_GER5 = {
+		icon = GFX_new_GER5
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER5}
+	}
+
+	get_new_GER6 = {
+		icon = GFX_new_GER6
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER6}
+	}
+
+	get_new_GER7 = {
+		icon = GFX_new_GER7
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER7}
+	}
+
+	get_new_GER8 = {
+		icon = GFX_new_GER8
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER8}
+	}
+
+	get_new_GER9 = {
+		icon = GFX_new_GER9
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER9}
+	}
+
+	get_new_GER10 = {
+		icon = GFX_new_GER10
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER10}
+	}
+
+	get_new_GER11 = {
+		icon = GFX_new_GER11
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER11}
+	}
+
+	get_new_GER12 = {
+		icon = GFX_new_GER12
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER12}
+	}
+
+	get_new_GER13 = {
+		icon = GFX_new_GER13
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER13}
+	}
+
+	get_new_GER14 = {
+		icon = GFX_new_GER14
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER14}
+	}
+
+	get_new_GER15 = {
+		icon = GFX_new_GER15
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER15}
+	}
+
+	get_new_GER16 = {
+		icon = GFX_new_GER16
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER16}
+	}
+
+	get_new_GER17 = {
+		icon = GFX_new_GER17
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER17}
+	}
+
+	get_new_GER18 = {
+		icon = GFX_new_GER18
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER18}
+	}
+
+	get_new_GER19 = {
+		icon = GFX_new_GER19
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER19}
+	}
+
+	get_new_GER20 = {
+		icon = GFX_new_GER20
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER20}
+	}
+
+	get_new_GER21 = {
+		icon = GFX_new_GER21
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER21}
+	}
+
+	get_new_GER22 = {
+		icon = GFX_new_GER22
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER22}
+	}
+
+	get_new_GER23 = {
+		icon = GFX_new_GER23
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER23}
+	}
+
+	get_new_GER24 = {
+		icon = GFX_new_GER24
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER24}
+	}
+
+	get_new_GER25 = {
+		icon = GFX_new_GER25
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER25}
+	}
+
+	get_new_GER26 = {
+		icon = GFX_new_GER26
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER26}
+	}
+
+	get_new_GER27 = {
+		icon = GFX_new_GER27
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER27}
+	}
+
+	get_new_GER28 = {
+		icon = GFX_new_GER28
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER28}
+	}
+
+	get_new_GER29 = {
+		icon = GFX_new_GER29
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER29}
+	}
+
+	get_new_GER30 = {
+		icon = GFX_new_GER30
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER30}
+	}
+
+	get_new_GER31 = {
+		icon = GFX_new_GER31
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER31}
+	}
+
+	get_new_GER32 = {
+		icon = GFX_new_GER32
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER32}
+	}
+
+	get_new_GER33 = {
+		icon = GFX_new_GER33
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER33}
+	}
+
+	get_new_GER34 = {
+		icon = GFX_new_GER34
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER34}
+	}
+
+	get_new_GER35 = {
+		icon = GFX_new_GER35
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER35}
+	}
+
+	get_new_GER36 = {
+		icon = GFX_new_GER36
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER36}
+	}
+
+	get_new_GER37 = {
+		icon = GFX_new_GER37
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER37}
+	}
+
+	get_new_GER38 = {
+		icon = GFX_new_GER38
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER38}
+	}
+
+	get_new_GER39 = {
+		icon = GFX_new_GER39
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER39}
+	}
+
+	get_new_GER40 = {
+		icon = GFX_new_GER40
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER40}
+	}
+
+	get_new_GER41 = {
+		icon = GFX_new_GER41
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER41}
+	}
+
+	get_new_GER42 = {
+		icon = GFX_new_GER42
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER42}
+	}
+
+	get_new_GER43 = {
+		icon = GFX_new_GER43
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER43}
+	}
+
+	get_new_GER44 = {
+		icon = GFX_new_GER44
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER44}
+	}
+
+	get_new_GER45 = {
+		icon = GFX_new_GER45
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER45}
+	}
+
+	get_new_GER46 = {
+		icon = GFX_new_GER46
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER46}
+	}
+
+	get_new_GER47 = {
+		icon = GFX_new_GER47
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER47}
+	}
+
+	get_new_GER48 = {
+		icon = GFX_new_GER48
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER48}
+	}
+
+	get_new_GER49 = {
+		icon = GFX_new_GER49
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER49}
+	}
+
+	get_new_GER50 = {
+		icon = GFX_new_GER50
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER50}
+	}
+
+	get_new_GER51 = {
+		icon = GFX_new_GER51
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER51}
+	}
+
+	get_new_GER52 = {
+		icon = GFX_new_GER52
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER52}
+	}
+
+	get_new_GER53 = {
+		icon = GFX_new_GER53
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER53}
+	}
+
+	get_new_GER54 = {
+		icon = GFX_new_GER54
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER54}
+	}
+
+	get_new_GER55 = {
+		icon = GFX_new_GER55
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER55}
+	}
+
+	get_new_GER56 = {
+		icon = GFX_new_GER56
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER56}
+	}
+
+	get_new_GER57 = {
+		icon = GFX_new_GER57
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER57}
+	}
+
+	get_new_GER58 = {
+		icon = GFX_new_GER58
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER58}
+	}
+
+	get_new_GER59 = {
+		icon = GFX_new_GER59
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER59}
+	}
+
+	get_new_GER60 = {
+		icon = GFX_new_GER60
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER60}
+	}
+
+	get_new_GER61 = {
+		icon = GFX_new_GER61
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER61}
+	}
+
+	get_new_GER62 = {
+		icon = GFX_new_GER62
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER62}
+	}
+
+	get_new_GER63 = {
+		icon = GFX_new_GER63
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER63}
+	}
+
+	get_new_GER64 = {
+		icon = GFX_new_GER64
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER64}
+	}
+
+	get_new_GER65 = {
+		icon = GFX_new_GER65
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER65}
+	}
+
+	get_new_GER66 = {
+		icon = GFX_new_GER66
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER66}
+	}
+
+	get_new_GER67 = {
+		icon = GFX_new_GER67
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER67}
+	}
+
+	get_new_GER68 = {
+		icon = GFX_new_GER68
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER68}
+	}
+
+	get_new_GER69 = {
+		icon = GFX_new_GER69
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER69}
+	}
+
+	get_new_GER70 = {
+		icon = GFX_new_GER70
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER70}
+	}
+
+	get_new_GER71 = {
+		icon = GFX_new_GER71
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER71}
+	}
+
+	get_new_GER72 = {
+		icon = GFX_new_GER72
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER72}
+	}
+
+	get_new_GER73 = {
+		icon = GFX_new_GER73
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER73}
+	}
+
+	get_new_GER74 = {
+		icon = GFX_new_GER74
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER74}
+	}
+
+	get_new_GER75 = {
+		icon = GFX_new_GER75
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER75}
+	}
+
+	get_new_GER76 = {
+		icon = GFX_new_GER76
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER76}
+	}
+
+	get_new_GER77 = {
+		icon = GFX_new_GER77
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER77}
+	}
+
+	get_new_GER78 = {
+		icon = GFX_new_GER78
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER78}
+	}
+
+	get_new_GER79 = {
+		icon = GFX_new_GER79
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER79}
+	}
+
+	get_new_GER80 = {
+		icon = GFX_new_GER80
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER80}
+	}
+
+	get_new_GER81 = {
+		icon = GFX_new_GER81
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER81}
+	}
+	
+	get_new_GER82 = {
+		icon = GFX_new_GER82
+		allowed = {original_tag = GER}
+		visible = {original_tag = GER}
+		complete_effect = {set_cosmetic_tag = new_GER82}
+	}
+
+	get_new_ARG1 = {
+		icon = GFX_new_ARG1
+		allowed = {original_tag = ARG}
+		visible = {original_tag = ARG}
+		complete_effect = {set_cosmetic_tag = new_ARG1}
+	}
+
+	get_new_ARG2 = {
+		icon = GFX_new_ARG2
+		allowed = {original_tag = ARG}
+		visible = {original_tag = ARG}
+		complete_effect = {set_cosmetic_tag = new_ARG2}
+	}
+
+	get_new_ARG3 = {
+		icon = GFX_new_ARG3
+		allowed = {original_tag = ARG}
+		visible = {original_tag = ARG}
+		complete_effect = {set_cosmetic_tag = new_ARG3}
+	}
+
+	get_new_ARG4 = {
+		icon = GFX_new_ARG4
+		allowed = {original_tag = ARG}
+		visible = {original_tag = ARG}
+		complete_effect = {set_cosmetic_tag = new_ARG4}
+	}
+
+	get_new_ARG5 = {
+		icon = GFX_new_ARG5
+		allowed = {original_tag = ARG}
+		visible = {original_tag = ARG}
+		complete_effect = {set_cosmetic_tag = new_ARG5}
+	}
+
+	get_new_ALB1 = {
+		icon = GFX_new_ALB1
+		allowed = {original_tag = ALB}
+		visible = {original_tag = ALB}
+		complete_effect = {set_cosmetic_tag = new_ALB1}
+	}
+
+	get_new_ALB2 = {
+		icon = GFX_new_ALB2
+		allowed = {original_tag = ALB}
+		visible = {original_tag = ALB}
+		complete_effect = {set_cosmetic_tag = new_ALB2}
+	}
+
+	get_new_ALB3 = {
+		icon = GFX_new_ALB3
+		allowed = {original_tag = ALB}
+		visible = {original_tag = ALB}
+		complete_effect = {set_cosmetic_tag = new_ALB3}
+	}
+
+	get_new_ALB4 = {
+		icon = GFX_new_ALB4
+		allowed = {original_tag = ALB}
+		visible = {original_tag = ALB}
+		complete_effect = {set_cosmetic_tag = new_ALB4}
+	}
+
+	get_new_ALB5 = {
+		icon = GFX_new_ALB5
+		allowed = {original_tag = ALB}
+		visible = {original_tag = ALB}
+		complete_effect = {set_cosmetic_tag = new_ALB5}
+	}
+
+	get_new_ALB6 = {
+		icon = GFX_new_ALB6
+		allowed = {original_tag = ALB}
+		visible = {original_tag = ALB}
+		complete_effect = {set_cosmetic_tag = new_ALB6}
+	}
+
+	get_new_ALB7 = {
+		icon = GFX_new_ALB7
+		allowed = {original_tag = ALB}
+		visible = {original_tag = ALB}
+		complete_effect = {set_cosmetic_tag = new_ALB7}
+	}
+
+	get_new_ALB8 = {
+		icon = GFX_new_ALB8
+		allowed = {original_tag = ALB}
+		visible = {original_tag = ALB}
+		complete_effect = {set_cosmetic_tag = new_ALB8}
+	}
+
+	get_new_ALB9 = {
+		icon = GFX_new_ALB9
+		allowed = {original_tag = ALB}
+		visible = {original_tag = ALB}
+		complete_effect = {set_cosmetic_tag = new_ALB9}
+	}
+
+	get_new_ALB10 = {
+		icon = GFX_new_ALB10
+		allowed = {original_tag = ALB}
+		visible = {original_tag = ALB}
+		complete_effect = {set_cosmetic_tag = new_ALB10}
+	}
+
+	get_new_ITA1 = {
+		icon = GFX_new_ITA1
+		allowed = {original_tag = ITA}
+		visible = {original_tag = ITA}
+		complete_effect = {set_cosmetic_tag = new_ITA1}
+	}
+
+	get_new_ITA2 = {
+		icon = GFX_new_ITA2
+		allowed = {original_tag = ITA}
+		visible = {original_tag = ITA}
+		complete_effect = {set_cosmetic_tag = new_ITA2}
+	}
+
+	get_new_ITA3 = {
+		icon = GFX_new_ITA3
+		allowed = {original_tag = ITA}
+		visible = {original_tag = ITA}
+		complete_effect = {set_cosmetic_tag = new_ITA3}
+	}
+
+	get_new_ITA4 = {
+		icon = GFX_new_ITA4
+		allowed = {original_tag = ITA}
+		visible = {original_tag = ITA}
+		complete_effect = {set_cosmetic_tag = new_ITA4}
+	}
+
+	get_new_ITA5 = {
+		icon = GFX_new_ITA5
+		allowed = {original_tag = ITA}
+		visible = {original_tag = ITA}
+		complete_effect = {set_cosmetic_tag = new_ITA5}
+	}
+
+	get_new_ITA6 = {
+		icon = GFX_new_ITA6
+		allowed = {original_tag = ITA}
+		visible = {original_tag = ITA}
+		complete_effect = {set_cosmetic_tag = new_ITA6}
+	}
+
+	get_new_ITA7 = {
+		icon = GFX_new_ITA7
+		allowed = {original_tag = ITA}
+		visible = {original_tag = ITA}
+		complete_effect = {set_cosmetic_tag = new_ITA7}
+	}
+
+	get_new_ITA8 = {
+		icon = GFX_new_ITA8
+		allowed = {original_tag = ITA}
+		visible = {original_tag = ITA}
+		complete_effect = {set_cosmetic_tag = new_ITA8}
+	}
+
+	get_new_ITA9 = {
+		icon = GFX_new_ITA9
+		allowed = {original_tag = ITA}
+		visible = {original_tag = ITA}
+		complete_effect = {set_cosmetic_tag = new_ITA9}
+	}
+
+	get_new_JAP1 = {
+		icon = GFX_new_JAP1
+		allowed = {original_tag = JAP}
+		visible = {original_tag = JAP}
+		complete_effect = {set_cosmetic_tag = new_JAP1}
+	}
+
+	get_new_JAP2 = {
+		icon = GFX_new_JAP2
+		allowed = {original_tag = JAP}
+		visible = {original_tag = JAP}
+		complete_effect = {set_cosmetic_tag = new_JAP2}
+	}
+
+	get_new_JAP3 = {
+		icon = GFX_new_JAP3
+		allowed = {original_tag = JAP}
+		visible = {original_tag = JAP}
+		complete_effect = {set_cosmetic_tag = new_JAP3}
+	}
+
+	get_new_JAP4 = {
+		icon = GFX_new_JAP4
+		allowed = {original_tag = JAP}
+		visible = {original_tag = JAP}
+		complete_effect = {set_cosmetic_tag = new_JAP4}
+	}
+
+	get_new_JAP5 = {
+		icon = GFX_new_JAP5
+		allowed = {original_tag = JAP}
+		visible = {original_tag = JAP}
+		complete_effect = {set_cosmetic_tag = new_JAP5}
+	}
+
+	get_new_JAP6 = {
+		icon = GFX_new_JAP6
+		allowed = {original_tag = JAP}
+		visible = {original_tag = JAP}
+		complete_effect = {set_cosmetic_tag = new_JAP6}
+	}
+
+	get_new_JAP7 = {
+		icon = GFX_new_JAP7
+		allowed = {original_tag = JAP}
+		visible = {original_tag = JAP}
+		complete_effect = {set_cosmetic_tag = new_JAP7}
+	}
+
+	get_new_JAP8 = {
+		icon = GFX_new_JAP8
+		allowed = {original_tag = JAP}
+		visible = {original_tag = JAP}
+		complete_effect = {set_cosmetic_tag = new_JAP8}
+	}
+
+	get_new_JAP9 = {
+		icon = GFX_new_JAP9
+		allowed = {original_tag = JAP}
+		visible = {original_tag = JAP}
+		complete_effect = {set_cosmetic_tag = new_JAP9}
+	}
+
+	get_new_SAF1 = {
+		icon = GFX_new_SAF1
+		allowed = {original_tag = SAF}
+		visible = {original_tag = SAF}
+		complete_effect = {set_cosmetic_tag = new_SAF1}
+	}
+
+	get_new_SAF2 = {
+		icon = GFX_new_SAF2
+		allowed = {original_tag = SAF}
+		visible = {original_tag = SAF}
+		complete_effect = {set_cosmetic_tag = new_SAF2}
+	}
+
+	get_new_SAF3 = {
+		icon = GFX_new_SAF3
+		allowed = {original_tag = SAF}
+		visible = {original_tag = SAF}
+		complete_effect = {set_cosmetic_tag = new_SAF3}
+	}
+
+	get_new_SAF4 = {
+		icon = GFX_new_SAF4
+		allowed = {original_tag = SAF}
+		visible = {original_tag = SAF}
+		complete_effect = {set_cosmetic_tag = new_SAF4}
+	}
+
+	get_new_VIN1 = {
+		icon = GFX_new_VIN1
+		allowed = {original_tag = VIN}
+		visible = {original_tag = VIN}
+		complete_effect = {set_cosmetic_tag = new_VIN1}
+	}
+
+	get_new_VIN2 = {
+		icon = GFX_new_VIN2
+		allowed = {original_tag = VIN}
+		visible = {original_tag = VIN}
+		complete_effect = {set_cosmetic_tag = new_VIN2}
+	}
+
+	get_new_SOV1 = {
+		icon = GFX_new_SOV1
+		allowed = {original_tag = SOV}
+		visible = {original_tag = SOV}
+		complete_effect = {set_cosmetic_tag = new_SOV1}
+	}
+
+	get_new_SOV2 = {
+		icon = GFX_new_SOV2
+		allowed = {original_tag = SOV}
+		visible = {original_tag = SOV}
+		complete_effect = {set_cosmetic_tag = new_SOV2}
+	}
+
+	get_new_SOV3 = {
+		icon = GFX_new_SOV3
+		allowed = {original_tag = SOV}
+		visible = {original_tag = SOV}
+		complete_effect = {set_cosmetic_tag = new_SOV3}
+	}
+
+	get_new_SOV4 = {
+		icon = GFX_new_SOV4
+		allowed = {original_tag = SOV}
+		visible = {original_tag = SOV}
+		complete_effect = {set_cosmetic_tag = new_SOV4}
+	}
+
+	get_new_SOV5 = {
+		icon = GFX_new_SOV5
+		allowed = {original_tag = SOV}
+		visible = {original_tag = SOV}
+		complete_effect = {set_cosmetic_tag = new_SOV5}
+	}
+
+	get_new_SOV6 = {
+		icon = GFX_new_SOV6
+		allowed = {original_tag = SOV}
+		visible = {original_tag = SOV}
+		complete_effect = {set_cosmetic_tag = new_SOV6}
+	}
+
+	get_new_SOV7 = {
+		icon = GFX_new_SOV7
+		allowed = {original_tag = SOV}
+		visible = {original_tag = SOV}
+		complete_effect = {set_cosmetic_tag = new_SOV7}
+	}
+
+	get_new_SOV8 = {
+		icon = GFX_new_SOV8
+		allowed = {original_tag = SOV}
+		visible = {original_tag = SOV}
+		complete_effect = {set_cosmetic_tag = new_SOV8}
+	}
+
+	get_new_SOV9 = {
+		icon = GFX_new_SOV9
+		allowed = {original_tag = SOV}
+		visible = {original_tag = SOV}
+		complete_effect = {set_cosmetic_tag = new_SOV9}
+	}
+
+	get_new_SOV10 = {
+		icon = GFX_new_SOV10
+		allowed = {original_tag = SOV}
+		visible = {original_tag = SOV}
+		complete_effect = {set_cosmetic_tag = new_SOV10}
+	}
+
+	get_new_SOV11 = {
+		icon = GFX_new_SOV11
+		allowed = {original_tag = SOV}
+		visible = {original_tag = SOV}
+		complete_effect = {set_cosmetic_tag = new_SOV11}
+	}
+
+	get_new_SOV12 = {
+		icon = GFX_new_SOV12
+		allowed = {original_tag = SOV}
+		visible = {original_tag = SOV}
+		complete_effect = {set_cosmetic_tag = new_SOV12}
+	}
+
+	get_new_SOV13 = {
+		icon = GFX_new_SOV13
+		allowed = {original_tag = SOV}
+		visible = {original_tag = SOV}
+		complete_effect = {set_cosmetic_tag = new_SOV13}
+	}
+
+	get_new_SOV14 = {
+		icon = GFX_new_SOV14
+		allowed = {original_tag = SOV}
+		visible = {original_tag = SOV}
+		complete_effect = {set_cosmetic_tag = new_SOV14}
+	}
+
+	get_new_SOV15 = {
+		icon = GFX_new_SOV15
+		allowed = {original_tag = SOV}
+		visible = {original_tag = SOV}
+		complete_effect = {set_cosmetic_tag = new_SOV15}
+	}
+
+	get_new_SOV16 = {
+		icon = GFX_new_SOV16
+		allowed = {original_tag = SOV}
+		visible = {original_tag = SOV}
+		complete_effect = {set_cosmetic_tag = new_SOV16}
+	}
+
+	get_new_SOV17 = {
+		icon = GFX_new_SOV17
+		allowed = {original_tag = SOV}
+		visible = {original_tag = SOV}
+		complete_effect = {set_cosmetic_tag = new_SOV17}
+	}
+
+	get_new_SOV18 = {
+		icon = GFX_new_SOV18
+		allowed = {original_tag = SOV}
+		visible = {original_tag = SOV}
+		complete_effect = {set_cosmetic_tag = new_SOV18}
+	}
+
+	get_new_SOV19 = {
+		icon = GFX_new_SOV19
+		allowed = {original_tag = SOV}
+		visible = {original_tag = SOV}
+		complete_effect = {set_cosmetic_tag = new_SOV19}
+	}
+
+	get_new_SOV20 = {
+		icon = GFX_new_SOV20
+		allowed = {original_tag = SOV}
+		visible = {original_tag = SOV}
+		complete_effect = {set_cosmetic_tag = new_SOV20}
+	}
+
+	get_new_SOV21 = {
+		icon = GFX_new_SOV21
+		allowed = {original_tag = SOV}
+		visible = {original_tag = SOV}
+		complete_effect = {set_cosmetic_tag = new_SOV21}
+	}
+
+	get_new_SOV22 = {
+		icon = GFX_new_SOV22
+		allowed = {original_tag = SOV}
+		visible = {original_tag = SOV}
+		complete_effect = {set_cosmetic_tag = new_SOV22}
+	}
+
+	get_new_SOV23 = {
+		icon = GFX_new_SOV23
+		allowed = {original_tag = SOV}
+		visible = {original_tag = SOV}
+		complete_effect = {set_cosmetic_tag = new_SOV23}
+	}
+
+	get_new_SOV24 = {
+		icon = GFX_new_SOV24
+		allowed = {original_tag = SOV}
+		visible = {original_tag = SOV}
+		complete_effect = {set_cosmetic_tag = new_SOV24}
+	}
+
+	get_new_SOV25 = {
+		icon = GFX_new_SOV25
+		allowed = {original_tag = SOV}
+		visible = {original_tag = SOV}
+		complete_effect = {set_cosmetic_tag = new_SOV25}
+	}
+
+	get_new_SOV26 = {
+		icon = GFX_new_SOV26
+		allowed = {original_tag = SOV}
+		visible = {original_tag = SOV}
+		complete_effect = {set_cosmetic_tag = new_SOV26}
+	}
+
+	get_new_SOV27 = {
+		icon = GFX_new_SOV27
+		allowed = {original_tag = SOV}
+		visible = {original_tag = SOV}
+		complete_effect = {set_cosmetic_tag = new_SOV27}
+	}
+
+	get_new_SOV28 = {
+		icon = GFX_new_SOV28
+		allowed = {original_tag = SOV}
+		visible = {original_tag = SOV}
+		complete_effect = {set_cosmetic_tag = new_SOV28}
+	}
+
+	get_new_SOV29 = {
+		icon = GFX_new_SOV29
+		allowed = {original_tag = SOV}
+		visible = {original_tag = SOV}
+		complete_effect = {set_cosmetic_tag = new_SOV29}
+	}
+
+	get_new_SOV30 = {
+		icon = GFX_new_SOV30
+		allowed = {original_tag = SOV}
+		visible = {original_tag = SOV}
+		complete_effect = {set_cosmetic_tag = new_SOV30}
+	}
+
+	get_new_SOV31 = {
+		icon = GFX_new_SOV31
+		allowed = {original_tag = SOV}
+		visible = {original_tag = SOV}
+		complete_effect = {set_cosmetic_tag = new_SOV31}
+	}
+
+	get_new_SOV32 = {
+		icon = GFX_new_SOV32
+		allowed = {original_tag = SOV}
+		visible = {original_tag = SOV}
+		complete_effect = {set_cosmetic_tag = new_SOV32}
+	}
+
+	get_new_SOV33 = {
+		icon = GFX_new_SOV33
+		allowed = {original_tag = SOV}
+		visible = {original_tag = SOV}
+		complete_effect = {set_cosmetic_tag = new_SOV33}
+	}
+
+	get_new_GRE1 = {
+		icon = GFX_new_GRE1
+		allowed = {original_tag = GRE}
+		visible = {original_tag = GRE}
+		complete_effect = {set_cosmetic_tag = new_GRE1}
+	}
+
+	get_new_GRE2 = {
+		icon = GFX_new_GRE2
+		allowed = {original_tag = GRE}
+		visible = {original_tag = GRE}
+		complete_effect = {set_cosmetic_tag = new_GRE2}
+	}
+
+	get_new_GRE3 = {
+		icon = GFX_new_GRE3
+		allowed = {original_tag = GRE}
+		visible = {original_tag = GRE}
+		complete_effect = {set_cosmetic_tag = new_GRE3}
+	}
+
+	get_new_GRE4 = {
+		icon = GFX_new_GRE4
+		allowed = {original_tag = GRE}
+		visible = {original_tag = GRE}
+		complete_effect = {set_cosmetic_tag = new_GRE4}
+	}
+
+	get_new_GRE5 = {
+		icon = GFX_new_GRE5
+		allowed = {original_tag = GRE}
+		visible = {original_tag = GRE}
+		complete_effect = {set_cosmetic_tag = new_GRE5}
+	}
+
+	get_new_GRE6 = {
+		icon = GFX_new_GRE6
+		allowed = {original_tag = GRE}
+		visible = {original_tag = GRE}
+		complete_effect = {set_cosmetic_tag = new_GRE6}
+	}
+
+	get_new_GRE7 = {
+		icon = GFX_new_GRE7
+		allowed = {original_tag = GRE}
+		visible = {original_tag = GRE}
+		complete_effect = {set_cosmetic_tag = new_GRE7}
+	}
+
+	get_new_GRE8 = {
+		icon = GFX_new_GRE8
+		allowed = {original_tag = GRE}
+		visible = {original_tag = GRE}
+		complete_effect = {set_cosmetic_tag = new_GRE8}
+	}
+
+	get_new_GRE9 = {
+		icon = GFX_new_GRE9
+		allowed = {original_tag = GRE}
+		visible = {original_tag = GRE}
+		complete_effect = {set_cosmetic_tag = new_GRE9}
+	}
+
+	get_new_GRE10 = {
+		icon = GFX_new_GRE10
+		allowed = {original_tag = GRE}
+		visible = {original_tag = GRE}
+		complete_effect = {set_cosmetic_tag = new_GRE10}
+	}
+
+	get_new_GRE11 = {
+		icon = GFX_new_GRE11
+		allowed = {original_tag = GRE}
+		visible = {original_tag = GRE}
+		complete_effect = {set_cosmetic_tag = new_GRE11}
+	}
+
+	get_new_GRE12 = {
+		icon = GFX_new_GRE12
+		allowed = {original_tag = GRE}
+		visible = {original_tag = GRE}
+		complete_effect = {set_cosmetic_tag = new_GRE12}
+	}
+
+	get_new_GRE13 = {
+		icon = GFX_new_GRE13
+		allowed = {original_tag = GRE}
+		visible = {original_tag = GRE}
+		complete_effect = {set_cosmetic_tag = new_GRE13}
+	}
+
+	get_new_GRE14 = {
+		icon = GFX_new_GRE14
+		allowed = {original_tag = GRE}
+		visible = {original_tag = GRE}
+		complete_effect = {set_cosmetic_tag = new_GRE14}
+	}
+
+	get_new_GRE15 = {
+		icon = GFX_new_GRE15
+		allowed = {original_tag = GRE}
+		visible = {original_tag = GRE}
+		complete_effect = {set_cosmetic_tag = new_GRE15}
+	}
+
+	get_new_GRE16 = {
+		icon = GFX_new_GRE16
+		allowed = {original_tag = GRE}
+		visible = {original_tag = GRE}
+		complete_effect = {set_cosmetic_tag = new_GRE16}
+	}
+
+	get_new_MAN1 = {
+		icon = GFX_new_MAN1
+		allowed = {original_tag = MAN}
+		visible = {original_tag = MAN}
+		complete_effect = {set_cosmetic_tag = new_MAN1}
+	}
+
+	get_new_MAN2 = {
+		icon = GFX_new_MAN2
+		allowed = {original_tag = MAN}
+		visible = {original_tag = MAN}
+		complete_effect = {set_cosmetic_tag = new_MAN2}
+	}
+
+	get_new_MAN3 = {
+		icon = GFX_new_MAN3
+		allowed = {original_tag = MAN}
+		visible = {original_tag = MAN}
+		complete_effect = {set_cosmetic_tag = new_MAN3}
+	}
+
+	get_new_MAN4 = {
+		icon = GFX_new_MAN4
+		allowed = {original_tag = MAN}
+		visible = {original_tag = MAN}
+		complete_effect = {set_cosmetic_tag = new_MAN4}
+	}
+
+	get_new_MAN5 = {
+		icon = GFX_new_MAN5
+		allowed = {original_tag = MAN}
+		visible = {original_tag = MAN}
+		complete_effect = {set_cosmetic_tag = new_MAN5}
+	}
+
+	get_new_MAN6 = {
+		icon = GFX_new_MAN6
+		allowed = {original_tag = MAN}
+		visible = {original_tag = MAN}
+		complete_effect = {set_cosmetic_tag = new_MAN6}
+	}
+	
+	get_new_MAN7 = {
+		icon = GFX_new_MAN7
+		allowed = {original_tag = MAN}
+		visible = {original_tag = MAN}
+		complete_effect = {set_cosmetic_tag = new_MAN7}
+	}
+	
+	get_new_MAN8 = {
+		icon = GFX_new_MAN8
+		allowed = {original_tag = MAN}
+		visible = {original_tag = MAN}
+		complete_effect = {set_cosmetic_tag = new_MAN8}
+	}
+	
+	get_new_MAN9 = {
+		icon = GFX_new_MAN9
+		allowed = {original_tag = MAN}
+		visible = {original_tag = MAN}
+		complete_effect = {set_cosmetic_tag = new_MAN9}
+	}
+
+	get_new_PER1 = {
+		icon = GFX_new_PER1
+		allowed = {original_tag = PER}
+		visible = {original_tag = PER}
+		complete_effect = {set_cosmetic_tag = new_PER1}
+	}
+
+	get_new_PER2 = {
+		icon = GFX_new_PER2
+		allowed = {original_tag = PER}
+		visible = {original_tag = PER}
+		complete_effect = {set_cosmetic_tag = new_PER2}
+	}
+
+	get_new_PER3 = {
+		icon = GFX_new_PER3
+		allowed = {original_tag = PER}
+		visible = {original_tag = PER}
+		complete_effect = {set_cosmetic_tag = new_PER3}
+	}
+
+	get_new_UKR1 = {
+		icon = GFX_new_UKR1
+		allowed = {original_tag = UKR}
+		visible = {original_tag = UKR}
+		complete_effect = {set_cosmetic_tag = new_UKR1}
+	}
+
+	get_new_UKR2 = {
+		icon = GFX_new_UKR2
+		allowed = {original_tag = UKR}
+		visible = {original_tag = UKR}
+		complete_effect = {set_cosmetic_tag = new_UKR2}
+	}
+
+	get_new_UKR3 = {
+		icon = GFX_new_UKR3
+		allowed = {original_tag = UKR}
+		visible = {original_tag = UKR}
+		complete_effect = {set_cosmetic_tag = new_UKR3}
+	}
+
+	get_new_IRE1 = {
+		icon = GFX_new_IRE1
+		allowed = {original_tag = IRE}
+		visible = {original_tag = IRE}
+		complete_effect = {set_cosmetic_tag = new_IRE1}
+	}
+
+	get_new_IRE2 = {
+		icon = GFX_new_IRE2
+		allowed = {original_tag = IRE}
+		visible = {original_tag = IRE}
+		complete_effect = {set_cosmetic_tag = new_IRE2}
+	}
+
+	get_new_IRE3 = {
+		icon = GFX_new_IRE3
+		allowed = {original_tag = IRE}
+		visible = {original_tag = IRE}
+		complete_effect = {set_cosmetic_tag = new_IRE3}
+	}
+
+	get_new_IRE4 = {
+		icon = GFX_new_IRE4
+		allowed = {original_tag = IRE}
+		visible = {original_tag = IRE}
+		complete_effect = {set_cosmetic_tag = new_IRE4}
+	}
+
+	get_new_ENG1 = {
+		icon = GFX_new_ENG1
+		allowed = {original_tag = ENG}
+		visible = {original_tag = ENG}
+		complete_effect = {set_cosmetic_tag = new_ENG1}
+	}
+
+	get_new_ENG2 = {
+		icon = GFX_new_ENG2
+		allowed = {original_tag = ENG}
+		visible = {original_tag = ENG}
+		complete_effect = {set_cosmetic_tag = new_ENG2}
+	}
+
+	get_new_ENG3 = {
+		icon = GFX_new_ENG3
+		allowed = {original_tag = ENG}
+		visible = {original_tag = ENG}
+		complete_effect = {set_cosmetic_tag = new_ENG3}
+	}
+
+	get_new_ENG4 = {
+		icon = GFX_new_ENG4
+		allowed = {original_tag = ENG}
+		visible = {original_tag = ENG}
+		complete_effect = {set_cosmetic_tag = new_ENG4}
+	}
+
+	get_new_ENG5 = {
+		icon = GFX_new_ENG5
+		allowed = {original_tag = ENG}
+		visible = {original_tag = ENG}
+		complete_effect = {set_cosmetic_tag = new_ENG5}
+	}
+
+	get_new_ENG6 = {
+		icon = GFX_new_ENG6
+		allowed = {original_tag = ENG}
+		visible = {original_tag = ENG}
+		complete_effect = {set_cosmetic_tag = new_ENG6}
+	}
+
+	get_new_ENG7 = {
+		icon = GFX_new_ENG7
+		allowed = {original_tag = ENG}
+		visible = {original_tag = ENG}
+		complete_effect = {set_cosmetic_tag = new_ENG7}
+	}
+
+	get_new_ENG8 = {
+		icon = GFX_new_ENG8
+		allowed = {original_tag = ENG}
+		visible = {original_tag = ENG}
+		complete_effect = {set_cosmetic_tag = new_ENG8}
+	}
+
+	get_new_ENG9 = {
+		icon = GFX_new_ENG9
+		allowed = {original_tag = ENG}
+		visible = {original_tag = ENG}
+		complete_effect = {set_cosmetic_tag = new_ENG9}
+	}
+
+	get_new_ENG10 = {
+		icon = GFX_new_ENG10
+		allowed = {original_tag = ENG}
+		visible = {original_tag = ENG}
+		complete_effect = {set_cosmetic_tag = new_ENG10}
+	}
+
+	get_new_ENG11 = {
+		icon = GFX_new_ENG11
+		allowed = {original_tag = ENG}
+		visible = {original_tag = ENG}
+		complete_effect = {set_cosmetic_tag = new_ENG11}
+	}
+
+	get_new_ENG12 = {
+		icon = GFX_new_ENG12
+		allowed = {original_tag = ENG}
+		visible = {original_tag = ENG}
+		complete_effect = {set_cosmetic_tag = new_ENG12}
+	}
+
+	get_new_ENG13 = {
+		icon = GFX_new_ENG13
+		allowed = {original_tag = ENG}
+		visible = {original_tag = ENG}
+		complete_effect = {set_cosmetic_tag = new_ENG13}
+	}
+
+	get_new_ENG14 = {
+		icon = GFX_new_ENG14
+		allowed = {original_tag = ENG}
+		visible = {original_tag = ENG}
+		complete_effect = {set_cosmetic_tag = new_ENG14}
+	}
+
+	get_new_ENG15 = {
+		icon = GFX_new_ENG15
+		allowed = {original_tag = ENG}
+		visible = {original_tag = ENG}
+		complete_effect = {set_cosmetic_tag = new_ENG15}
+	}
+
+	get_new_ENG16 = {
+		icon = GFX_new_ENG16
+		allowed = {original_tag = ENG}
+		visible = {original_tag = ENG}
+		complete_effect = {set_cosmetic_tag = new_ENG16}
+	}
+
+	get_new_ENG17 = {
+		icon = GFX_new_ENG17
+		allowed = {original_tag = ENG}
+		visible = {original_tag = ENG}
+		complete_effect = {set_cosmetic_tag = new_ENG17}
+	}
+
+	get_new_ENG18 = {
+		icon = GFX_new_ENG18
+		allowed = {original_tag = ENG}
+		visible = {original_tag = ENG}
+		complete_effect = {set_cosmetic_tag = new_ENG18}
+	}
+
+	get_new_ENG19 = {
+		icon = GFX_new_ENG19
+		allowed = {original_tag = ENG}
+		visible = {original_tag = ENG}
+		complete_effect = {set_cosmetic_tag = new_ENG19}
+	}
+
+	get_new_ENG20 = {
+		icon = GFX_new_ENG20
+		allowed = {original_tag = ENG}
+		visible = {original_tag = ENG}
+		complete_effect = {set_cosmetic_tag = new_ENG20}
+	}
+
+	get_new_ENG21 = {
+		icon = GFX_new_ENG21
+		allowed = {original_tag = ENG}
+		visible = {original_tag = ENG}
+		complete_effect = {set_cosmetic_tag = new_ENG21}
+	}
+
+	get_new_ENG22 = {
+		icon = GFX_new_ENG22
+		allowed = {original_tag = ENG}
+		visible = {original_tag = ENG}
+		complete_effect = {set_cosmetic_tag = new_ENG22}
+	}
+
+	get_new_ENG23 = {
+		icon = GFX_new_ENG23
+		allowed = {original_tag = ENG}
+		visible = {original_tag = ENG}
+		complete_effect = {set_cosmetic_tag = new_ENG23}
+	}
+
+	get_new_ENG24 = {
+		icon = GFX_new_ENG24
+		allowed = {original_tag = ENG}
+		visible = {original_tag = ENG}
+		complete_effect = {set_cosmetic_tag = new_ENG24}
+	}
+
+
+	af_reset = {
+		icon = GFX_af_reset
+		allowed = {always = yes}
+		visible = {always = yes}
+		complete_effect = {drop_cosmetic_tag = yes}
+	}
+
+}

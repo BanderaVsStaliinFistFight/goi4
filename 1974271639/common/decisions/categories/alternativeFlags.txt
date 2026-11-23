@@ -1,0 +1,8 @@
+alternative_flags_category = {
+
+	icon = ger_mefo_bills
+
+	allowed = {
+		
+	}
+}
